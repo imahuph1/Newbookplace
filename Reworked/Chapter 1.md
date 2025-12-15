@@ -1,81 +1,202 @@
 # Chapter 1
-## Awakening
-Jimmy Jones knew something had gone wrong the moment the light faded. 
-He was seated in the corner of the ascension
-temple, today was his sixteenth birthday, awakening day for him and several others in this city.  
-High noon had come and gone, and his panel had not changed like it should have.
-No skills.
-No attribute numbers.
-Just the same dull system interface he has had since childhood, wallet balance at zero, and a nearly empty storage space, just some cloths, and a few pieces of bread.
-Across from him the others buzzed with noise, cheers of joy for those who got classes they hoped to get, a few with tears in their eyes for classes they did not want.  Newly awakened adults now bragging about their classes and skills.
-Jimmy did now have a class, _Cultivator-Sword immortal-unique_.  He was not surprised he had never heard of it, unique classes are just that unique, one and only one can exist.  Some are quite powerful, some are nearly useless, and given that this class did not even have attributes or skills, it must be one of the useless ones.  He even got a talent, a rarity, something only one in ten thousand get, not that it will help him that much _absolute comprehension_ means nothing when he does not even have attributes, and exp bar, or skills.
-Jimmy was not surprised, he has lived on the streets of this city for as long as he can remember, no home, no family, no luck.  Scavenging junk, digging through things people throw out in hopes of gathering enough low value items to exchange for food and water to get him to the next day.
-Just as Jimmy was about to go out and begin the scavenging a new a message appeared before his eyes.
 
-> **Due to this world's lack of cultivation resources, a supplementary system has been authorized.**
+## Awakening
+
+Jimmy Jones knew something had gone wrong the moment the light faded.
+
+He sat in the corner of the Ascension Temple, knees drawn to his chest, back pressed against cold stone. High noon had come and gone. Today was his sixteenth birthday—his Awakening Day—and his panel still hadn’t changed.
+
+No skills.\
+No attributes.
+
+Just the same dull system interface he’d had since childhood. Wallet balance: zero. Storage space: nearly empty. A few pieces of bread. Spare clothes worn thin enough to barely count.
+
+Across the hall, the temple buzzed with noise. Cheers erupted for those who’d received the classes they’d hoped for. Others cried quietly over paths they didn’t want. Newly awakened adults clustered together, comparing stats, bragging about skills, already planning their futures.
+
+Jimmy stayed where he was.
+
+He _did_ have a class.
+
+**Cultivator – Sword Immortal (Unique).**
+
+That part didn’t surprise him. Unique classes were exactly what the name implied—one of a kind. Some were legendary. Some were traps. Given that his came with no attributes, no skills, and no experience bar, Jimmy had little trouble guessing which category this one fell into.
+
+He’d even received a talent. A real one. Something only one in ten thousand awakened possessed.
+
+**Absolute Comprehension.**
+
+It sounded impressive. It meant nothing.
+
+Comprehension didn’t matter if there was nothing _to_ comprehend.
+
+Jimmy wasn’t angry. He wasn’t shocked. Mostly, he was tired. He’d lived on the streets of this city for as long as he could remember—no home, no family, no luck to speak of. Every day was scavenging discarded goods, trading scraps and low-value items for just enough food and water to survive to the next morning.
+
+This was just how things went.
+
+He rose from the corner, already thinking about which alley routes had the least competition today, when a new message appeared before his eyes.
+
+> **Due to this world’s lack of cultivation resources, a supplementary system has been authorized.**\
 > **Pay-to-Win Subsystem Activated.**
 
-Just as Jimmy had finished reading the message a second window opened.
+Jimmy blinked.
 
-> **Welcome, Cultivator.**
-> **Primary combat path detected, Sword Immortal.**
+A second window opened before he could process the first.
+
+> **Welcome, Cultivator.**\
+> **Primary combat path detected: Sword Immortal.**\
 > **Would you like to open the Newbie Gift Pack?**
 
-Newbie gift pack, what is that, but it does not sound bad so sure, open it.
+Newbie Gift Pack?
 
-> **Newbie Gift Pack opening...**
+It didn’t sound bad. He hesitated only a moment.
+
+“Open,” he said.
+
+> **Newbie Gift Pack opening…**
 >
->- **one celestial body cultivation manual**
->- **one nine swords technique manual**
->- **one book cultivation for dummies**
->- **three body refinement pills**
->- **one tier three sword**
->- **one set of armor**
->- **one hundred gold**
+> • **One Celestial Body Cultivation Manual**\
+> • **One Nine Swords Technique Manual**\
+> • **One book: _Cultivation for Dummies_**\
+> • **Three Body Refinement Pills**\
+> • **One Tier Three Sword**\
+> • **One Armor Set**\
+> • **One Hundred Gold**
 >
->**_Note:_ all cultivation-related items purchased or obtained through the System are compatible with your talent:_Absolute Comprehension_.
+> **Note:** All cultivation-related items obtained through the System are compatible with your talent: **Absolute Comprehension**.
 
-Jimmy's breath caught, gold, real spendable gold, sitting in his system wallet.  More money than he has seen in his life.  A full day of digging through scraps he might gather up one or two copper.
-Tonight he sleeps in luxury, eats at a proper restaurant, no more will he sleep in the alleys.
-Jimmy got up from the corner he was sitting in and headed out of the ascension temple and moved towards the hotels, it is still early afternoon he has much more to learn about his class, but it can all wait until after a shower and a good meal.
+Jimmy’s breath caught.
 
-## A Bed, a Bath, and Bread That Wasn't Stale 
-Jimmy chose the nicest inn he had ever _dared_ to look at.  Not the fanciest, those were clustered right next to the Ascension Temple, or near the main city gates for the merchants.  No the one he was looking at was a solidly built three story building with clean windows, a hanging sign carved with clouds, The Cloud Hotel.  Not a super fancy place, but a place one thousand steps up from where he was just a few minutes ago.
-Jimmy stepped inside and immediately felt under dressed.  The clerk glanced up, eyes flicking briefly over Jimmy's worn clothes, then up to his dirty face.  To their credit, they did not sneer, or throw him out.
+Gold.
 
-"One night?" the clerk asked.
+Real gold. Spendable gold. Sitting in his system wallet.
 
-Jimmy swallowed. "Yes...A....good room please."
+A full day of digging through refuse might earn him one or two copper if he was lucky. This was more money than he had ever possessed in his life.
 
-The clerk's eyebrows rose a fraction.  "That'll be fifty silver for a room with communal bathrooms, or one gold for an attached private en suite.  Dinner is included with both."
+Tonight, he would sleep in a bed. He would eat real food. Not stale bread. Not scraps.
 
-Jimmy smiled, he pulled up his system interface and processed the payment to the clerk, one gold.
+For the first time in years, he wouldn’t sleep in an alley.
 
-The clerk blinked.   Their expression changed, not a lot, most people would not notice, but enough.  "Welcome," he said smoothly handing over a card key, "Room seventeen, dinner service starts at sunset and lasts for two hours.  Tonight's main course is prime rib, I do recommend you try it."  
+Jimmy left the temple without looking back, heading straight toward the inn district. It was still early afternoon. Whatever this class was, whatever the system meant, it could wait.
 
-Jimmy nodded took the card key and walked along hallway towards his room, still slightly shaking, still thinking that all of this is a dream and hoping against hope that it is not.
+Right now, he wanted a bath.
 
-Once Jimmy entered his room he went straight to the en suite, disrobed and entered the shower.  A solid hour of enjoying the water running over his skin and scrubbing the water finally stopped running black off of him.  He took out his spare set of clothes and the dirt encrusted clothes he wore in an scrubbed them clean in the shower, and hung them to dry.  
-For the first time in a long time he felt clean, really truly clean.  Looking at himself in the mirror a young man with long raven black hair looked back, face still flush from the heat of the shower and the amount of scrubbing that was required to remove the months of dirt buildup.
+***
 
-Jimmy smiled, finished drying himself off, wrapped himself in a towel and sat in the lounge chair, he once again looked at his system space, intending on looking at the techniques but found his eyes drawn to the armor set, it looked like a set of robes, almost like pajamas.  Jimmy was a bit taken aback, how could pajamas be an armor set, and if the system can make armor look like pajamas why can't the system make the armor look like a nice dress shirt, some comfortable pants, and boots.  Something that a nice young gentleman would not feel bad being seen in wandering about in modern society.
+## A Bed, a Bath, and Bread That Wasn’t Stale
 
-> **complaint noted, adjusting… adjusted, armor sets modified to user preferences**
+Jimmy chose the nicest inn he’d ever _dared_ to look at.
 
-The system popup surprised Jimmy so much he almost fell out of the chair, just how much does the system listen in on his thoughts.  But he was equally surprised that the system adjusted the armor set just for him.
-looking back at it it was more to his tasted, a nice button up shirt, trousers that look good, and what appear to be comfortable boots.
+Not the grand establishments clustered near the Ascension Temple or the main city gates—those were for nobles and merchant lords. This one was humbler. A solid three-story building with clean windows and a carved wooden sign depicting drifting clouds.
 
-> **armor set tier one, contains two arrays.    array one when activated will actively draw spiritual energy to the wearer.  array two when activated will protect against most attacks from tier one beasts.**
+**The Cloud Hotel.**
 
-Nice, armor he can wear around town and will not draw undue attention to himself.  He can even wear it to dinner tonight instead of the thread bare stuff that he came in wearing, very nice.  Today has to be the best day of his life.
-There are still three hours left until dinner opens so Johnny decides to look at the cultivation manual and sword technique.
+A thousand steps above where he’d been an hour ago.
+
+The moment he stepped inside, Jimmy felt underdressed. The clerk glanced up, eyes flicking briefly over his worn clothes and dirty face. To their credit, they didn’t sneer. They didn’t ask him to leave.
+
+“One night?” the clerk asked.
+
+Jimmy swallowed. “Yes. A… good room, please.”
+
+An eyebrow lifted slightly. “Fifty silver for a standard room with communal baths. One gold for a private en suite. Dinner included with both.”
+
+Jimmy smiled.
+
+He pulled up his system interface and transferred one gold.
+
+The clerk blinked. The change in expression was subtle—barely noticeable—but it was there.
+
+“Welcome,” the clerk said smoothly, handing him a room key. “Room seventeen. Dinner service begins at sunset and lasts two hours. Tonight’s main course is prime rib. I recommend it.”
+
+Jimmy nodded, took the key, and walked down the hallway, hands shaking just a little. It still felt unreal, like he might wake up any moment on cold stone with an empty stomach.
+
+In his room, he went straight to the en suite.
+
+The shower ran for a full hour. Dirt washed away in dark rivulets, the water gradually running clear. Jimmy scrubbed until his skin burned pleasantly, then washed his spare clothes and hung both sets to dry.
+
+Clean.
+
+Really clean.
+
+He studied his reflection in the mirror. A young man stared back—long raven-black hair, lean frame, skin flushed from heat and effort. Someone who looked… normal.
+
+Jimmy smiled.
+
+Wrapped in a towel, he sat in the lounge chair and opened his system storage again. His gaze drifted to the armor set. It looked less like armor and more like loose robes—almost pajamas.
+
+He frowned. _If the system can do this, why not make it look like proper clothes?_
+
+> **Complaint noted. Adjusting… Adjustment complete.**
+
+Jimmy nearly fell out of the chair.
+
+The armor now appeared as a neatly tailored shirt, comfortable trousers, and sturdy boots—clean, understated, and respectable.
+
+> **Armor Set – Tier One**\
+> **Arrays:**\
+> • **Array One:** Actively draws ambient spiritual energy to the wearer.\
+> • **Array Two:** Provides protection against most Tier One beast attacks.
+
+Jimmy exhaled slowly.
+
+Armor he could wear in public. Armor that didn’t scream _armor_.
+
+Perfect.
+
+There were still three hours before dinner. With nothing else pressing, Jimmy turned his attention to the cultivation manual.
 
 > **Celestial Body Cultivation Manual**\
-> _Quality: Divine_\
-> _Description: Requires years for proper comprehension._
+> **Quality:** Divine\
+> **Description:** Requires years for proper comprehension.
 
-The moment Johnny decided he wanted to pull the manual out of system storage it dissolved into motes of light and entered his brow.  No reading, not attempting to understand it simply entered his mind understanding simply… _arrived_.   His breathing adjusted on its own, his heartbeat slowed, settling into a precise rhythm, he could feel the energies around him slowly entering his body, circulating within it, refining the cells of his skin, muscles and bones into something more than what they were.   The technique required no additional thought or action from him, every breath seemed to draw something ephemeral inward and remove impurities from his own body.
+The moment he selected it, the manual dissolved into motes of light and flowed into his brow.
 
-> **Celestial body cultivation technique learned**
+There was no reading. No struggle.
+
+Understanding simply… arrived.
+
+His breathing shifted on its own, slow and precise. His heartbeat settled into a steady rhythm. With every breath, something unseen was drawn into him, circulating through his body, refining flesh, muscle, and bone into something subtly greater.
+
+It required no effort. No thought.
+
+Just existence.
+
+> **Celestial Body Cultivation Technique learned.**\
 > **Status: Perfected.**
 
+Jimmy sat quietly, listening to his own breath, unaware that his life had already diverged beyond anything this continent had ever seen.
+
+Next, he turned his attention to the sword technique manual. It too dissolved into motes of light. It felt as though hundreds of years of sword practice were being forced into his mind and muscles all at once.
+
+> **Nine Swords Technique learned.**\
+> **Status: Perfected.**
+
+Nine sword forms entered his awareness, each flawless, each complete. Technique without technique. Form without pattern. The sword and the self becoming one.
+
+Jimmy wanted nothing more than to practice immediately—but he was even more worried about damaging the room and being forced to pay for it.
+
+There were two items left from his gift pack that he hadn’t examined thoroughly: the sword, which he was afraid to take out right now, and the body refinement pills.
+
+He withdrew one pill from storage.
+
+It was small and round, blood-red in color, with a strange aroma—part medicinal, part herbal.
+
+He placed it in his mouth.
+
+It dissolved instantly, becoming a warm liquid that slid down his throat. Energy surged through his body as his cultivation technique accelerated on its own, refining that power into his muscles, blood, bones, veins, and arteries.
+
+For nearly two hours, Jimmy couldn’t move. He sat with his eyes closed, guiding the energy according to the Celestial Body Cultivation Method.
+
+When it was over, he opened his eyes, heart pounding.
+
+He was glad he hadn’t taken one of the pills earlier. This was something that required safety.
+
+> **Congratulations. You have reached Body Refinement Stage One.**
+
+Strength coursed through him—quiet, dense, and real.
+
+_So this is what awakeners feel like,_ he thought. _No wonder they’re full of joy._
+
+His stomach growled as the smell of dinner drifted down the hallway.
+
+Jimmy stood and prepared for his first real meal in years.

@@ -1,142 +1,152 @@
 # Chapter 2
 
-## A Bed, a Bath, and Bread That Wasn’t Stale
+## Prime Rib and First Steps
 
-Jimmy chose the nicest inn he had ever _dared_ to look at.
+Dinner was everything Jimmy had imagined—and more.
 
-Not the fanciest—those were clustered right next to the Ascension Temple, all polished stone and guards with halberds—but a solid, three-story building with clean windows, a hanging sign carved with clouds, and the faint smell of roasting meat drifting out the front door.
+The prime rib arrived thick-cut and perfectly seared, juices pooling beneath it. Steam rose as he sliced into the meat, the knife gliding through with almost no resistance. He paused for just a moment, staring.
 
-The kind of place where the staff looked alert but not judgmental.
+Then he ate.
 
-Jimmy stepped inside and immediately felt underdressed.
+Flavor exploded across his tongue—salt, fat, heat, richness. He chewed slowly, deliberately, forcing himself not to rush. Across the dining hall, merchants and travelers chatted idly, laughter mixing with the soft clink of cutlery. No one paid him any attention.
 
-The clerk glanced up, eyes flicking briefly over Jimmy’s worn clothes, then to his face. To their credit, they didn’t sneer.
+That was fine.
 
-“One night?” the clerk asked.
+For the first time in years, Jimmy ate until he was full. Not _almost_ full. Not saving half for later.
 
-Jimmy swallowed. “Yes. A… good room.”
+Full.
 
-The clerk’s eyebrows rose a fraction. “That’ll be one gold. Dinner included. Bath access as well.”
+Bread that was still warm. Vegetables cooked properly. A small dessert he hadn’t ordered but was included with the meal. By the time he leaned back in his chair, his limbs felt heavy in the best possible way.
 
-Jimmy almost laughed.
+He returned to his room and collapsed onto the bed.
 
-He pulled up his system interface, heart pounding, and tapped **Confirm Payment**.
+The mattress yielded beneath him, soft and supportive. Sheets brushed clean against his skin. Jimmy stared at the ceiling for a long moment, waiting for the unease to come—for the sense that this was temporary, that it would be ripped away the moment he relaxed.
 
-> **–1 Gold**\
-> **Balance: 99 Gold**
+It didn’t.
 
-The clerk blinked.
-
-Their expression changed—not dramatically, but enough. Respect slid neatly into place.
-
-“Welcome,” they said smoothly, handing over a brass key. “Room seventeen. Dinner service ends in an hour.”
-
-Jimmy nodded, took the key, and walked upstairs before his legs remembered how to shake.
+Sleep took him almost instantly.
 
 ***
 
-The bath came first.
+He woke before dawn.
 
-Jimmy stared at the wooden tub like it might vanish if he looked away.
+Not because of noise or hunger, but because his body simply… finished resting.
 
-Hot water. Actual hot water. He stripped, folded his clothes carefully, and lowered himself in with a sigh that left him boneless. Dirt bled off him in gray ribbons. His hair took three full scrubbings before the water stayed clear.
+Jimmy sat up slowly, surprised. His limbs felt light. Strong. Clear. There was no stiffness, no dull ache from sleeping wrong on stone or wood. His breath was steady, his mind sharp.
 
-He sat there far longer than necessary, eyes closed, breathing.
+_Body Refinement Stage One,_ he thought.
 
-Safe.
+So this was the difference.
 
-No footsteps behind him. No night approaching without shelter. No fear of being chased away.
+He washed, dressed, and checked his system interface.
 
-Just steam and silence.
+**Wallet:** 99 gold\
+**Cultivation:** Body Refinement Stage One\
+**Techniques:** Perfected
 
-When he finally emerged, wrapped in a towel that didn’t smell like mildew, Jimmy felt lighter than he had in years.
+Ninety-nine gold was a fortune.
 
-## Dinner at the Cloud Hotel
+It was also temporary.
 
-Dinner service began at sunset.
+Jimmy sat on the edge of the bed and did the math. Room, food, supplies, maintenance—living like this wasn’t cheap. If he wanted to keep sleeping in a bed, eating proper meals, and staying clean, he’d need income.
 
-Jimmy arrived early, mostly because he was afraid they might change their minds if he didn’t. He stood just inside the dining room, briefly unsure where to put his hands. The room smelled like roasted meat, butter, and money.
+At least one gold per day.
 
-A server noticed him immediately.
+Not eventually. Not someday.
 
-“Table for one?” they asked.
+Every day.
 
-“Yes,” Jimmy said. “I come in that configuration.”
+There were only a few reliable ways to earn that kind of money without backing or connections.
 
-The server paused, then gestured him toward a small table by the window. Jimmy sat carefully, as if chairs were still something that could betray him.
+One of them was dungeon diving.
 
-A menu was placed in front of him.
+***
 
-He scanned it slowly, not because he was deciding, but because he had no idea how much any of it was supposed to cost. The numbers were absent, which was either classy or predatory.
+The city’s Level One to Five dungeon lay just outside the eastern gate, a stone structure half-sunk into the earth like a buried tower. It was considered safe by most standards—dangerous enough to train awakeners, profitable enough to sustain beginners, and regulated closely by the Adventurer’s Guild.
 
-The server returned. “Our recommendation tonight is the prime rib.”
+Jimmy arrived at sunrise.
 
-“I’ll take that,” Jimmy said quickly. “Before it realizes I’m here.”
+Parties were already forming near the entrance. Fresh awakeners comparing skills, veterans barking orders, porters hauling gear. Jimmy blended in easily, his new clothes plain enough to avoid attention.
 
-The server smiled politely and left.
+He paused a short distance from the entrance and opened his storage.
 
-Jimmy folded his hands on the table and waited.
+The sword.
 
-Around him, other diners spoke in low voices. A man in fine clothes complained about dungeon drop rates. Someone else lamented that their awakening talent only worked _sometimes_. These were problems Jimmy had previously assumed were fictional.
+He hesitated, then summoned it.
 
-The food arrived.
+Steel appeared in his hand—simple, elegant, perfectly balanced. The blade was unadorned, its surface faintly reflective, like water at dawn. When he held it, something clicked into place.
 
-The plate was heavy. The meat was thick, glistening, and unapologetic. Steam rose from it like it was trying to convince him it was real.
+Not excitement.
 
-Jimmy stared.
+Familiarity.
 
-Then, very carefully, he cut a piece and put it in his mouth.
+> **Sword – Tier Three**\
+> **Status:** Bound\
+> **Durability:** Perfect
 
-He closed his eyes.
+Jimmy tightened his grip, then relaxed it. The sword didn’t feel heavy. It didn’t feel light.
 
-For a moment, he was afraid. His body had learned to distrust abundance. Rich food could be dangerous. It could hurt you later, when it was gone.
+It felt _right_.
 
-But it didn’t.
+He slid it into a borrowed scabbard at his hip and exhaled.
 
-It was tender. Warm. Salty in the correct way. It did not fight back.
+_One gold per day,_ he reminded himself.
 
-Jimmy chewed slowly, letting the realization sink in.
+No risks. No recklessness. Clear targets. Clean kills.
 
-“Oh,” he whispered. “So _this_ is what hope tastes like.”
+Jimmy stepped forward and crossed the dungeon threshold.
 
-He ate everything.
+The air shifted immediately—cooler, heavier, faintly damp. Torchlight flickered along stone walls carved with worn sigils. The first floor was wide and open, paths branching off into chambers used and reused for generations.
 
-Not hurriedly. Not greedily. Methodically. As if finishing the plate would anchor it in reality. When the server returned to clear the dishes, they paused.
+Low-level beasts lived here.
 
-“Did you enjoy your meal?” they asked.
+Weak.
 
-Jimmy looked at the empty plate.
+Predictable.
 
-“I would die for it,” he said honestly.
+Perfect.
 
-The server nodded, apparently having heard worse.
+Jimmy moved quietly, senses alert. He didn’t rush. He didn’t seek conflict.
 
-Dessert followed—something with fruit and sugar and no discernible survival value. Jimmy ate it anyway. He was past the point of self-preservation.
+Conflict found him anyway.
 
-By the time he leaned back in his chair, warm and full, Jimmy realized something unsettling.
+A shape lunged from behind a broken pillar—a horned rat the size of a dog, red eyes gleaming.
 
-He wasn’t hungry anymore.
+Jimmy’s body moved before thought.
 
-Not in his stomach.
+One step.\
+One draw.\
+One cut.
 
-Not in his chest.
+The sword flashed.
 
-The city outside glowed with lantern light as night settled in. Somewhere out there, people without shelter were already making bad calculations about distance and darkness.
+The rat fell in two clean pieces, already dead before it hit the ground.
 
-Jimmy watched from behind glass.
+Jimmy stood still, blade lowered.
 
-For once, it wasn’t him.
+No adrenaline spike. No shaking hands.
 
-He returned to his room before the night could change its mind, locked the door, and lay on the bed.
+Just a faint warmth in his muscles, as though they’d done something they were always meant to do.
 
-The mattress did not stab him. The ceiling did not leak. No one tried to steal his shoes.
+He cleaned the blade and continued forward.
 
-Jimmy stared upward.
+***
 
-“Tomorrow,” he said.
+By midmorning, Jimmy had filled a third of his storage with monster cores, hides, and low-grade materials. Nothing flashy. Nothing rare.
 
-That felt dangerous too—but in a way he was willing to risk.
+But it was consistent.
 
-He slept.
+Efficient.
 
-Deeply.
+Profitable.
+
+When he finally turned back toward the exit, he did so calmly, already calculating his route to the guild exchange.
+
+One gold per day.
+
+That wasn’t a dream.
+
+It was a baseline.
+
+And Jimmy Jones intended to exceed it.
+

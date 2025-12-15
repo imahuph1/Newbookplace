@@ -22,7 +22,7 @@
 
 * Jimmy gets:
 
-  * **Sword Cultivator**
+  * **Cultivator - sword immortal (unique)**
 
   * **No skills**
 
@@ -40,39 +40,31 @@
 **Comedy Beat:**\
 Jimmy assumes the system is mocking him because he has no gold.
 
-#### Chapter 2 – The Newbie Gift Pack
+The Newbie Gift Pack
 
-* Jimmy opens the pack:
-
-  * Small amount of system gold
-
-  * Beginner Sword Manual (lowest tier)
-
-  * Basic Body Tempering Technique
-
-* He purchases the manual → **Instant Perfected Level**
+>- **one celestial body cultivation manual**
+>- **one nine swords technique manual**
+>- **one book cultivation for dummies**
+>- **three body refinement pills**
+>- **one tier three sword**
+>- **one set of armor**
+>- **one hundred gold**
+>- 
+* He has the innate tallent  → **absolute comprehension**
 
 * He casually performs a move that should take years to learn
-
-* His stats finally appear — abnormal but not godlike
 
 * He realizes:
 
   * He still has to pay
 
-  * But effort is optional
+  * effort is still required to grow
 
-#### Chapter 3 – Homeless Economics
+ Homeless Economics
 
-* Jimmy returns to scavenging
+* Jimmy never returns to scavenging
 
-* Tests **Exchange Function**:
-
-  * Sells low-value scrap and monster remains others ignore
-
-* Discovers:
-
-  * The system values things _differently_ than this world
+  * Items in this world do not affect his growth, they lack spiritual energy, he call sell what others covet
 
 * Learns about:
 
@@ -103,27 +95,15 @@ The dungeon exit timer ticks down as the sky darkens.
 
 * Levels climb quickly from dungeon clears
 
-* Mandatory Level 10 breakthrough quest appears
+* no mandatory quest, but breakthrough is still difficult/costly
 
-* Simple trial → trivial due to perfected control
-
-* Gains:
-
-  * First true sword skill
-
-  * Noticeable lifespan increase
-
-* Realizes:
-
-  * This pace is not normal
-
-#### Chapter 6 – Gold Changes Everything
+Gold Changes Everything
 
 * Jimmy reinvests all gold:
 
   * Better manuals
 
-  * Better body tempering
+  * Better elixirs
 
 * Absolute Comprehension begins to show:
 
@@ -176,11 +156,7 @@ Jimmy deletes his drafted apology message and replaces it with:
 
 #### Chapter 10 – Level 20 Wall
 
-* Mandatory breakthrough quest is harder
-
-* Involves combat and endurance
-
-* Jimmy wins cleanly
+* breakthrough to condensation much more difficult/expensive
 
 * Gains new abilities
 
@@ -224,13 +200,13 @@ Jimmy deletes his drafted apology message and replaces it with:
 
 #### Chapter 14 – Level 30 Breakthrough
 
-* Quest introduces a strange environmental challenge
+* Foundation establishment, begins to learn sword control, can now fly on a sword, control ten swords to fight at range.
 
 * First subtle hint:
 
   * The world itself feels _restricted_
 
-* Jimmy passes
+* Jimmy begins to understand the uses of formations/arrays
 
 * Gains deeper cultivation control
 
@@ -258,9 +234,7 @@ Jimmy deletes his drafted apology message and replaces it with:
 
 #### Chapter 17 – The Ceiling
 
-* Leveling slows dramatically
-
-* Mandatory quests become trivial
+* cultivation slows dramatically
 
 * No new challenges appear
 
@@ -268,7 +242,7 @@ Jimmy deletes his drafted apology message and replaces it with:
 
 #### Chapter 18 – Transcendence
 
-* Jimmy reaches **Transcendence**
+* Jimmy reaches **Ascension**
 
 * Power equivalent to a theoretical Level 200
 

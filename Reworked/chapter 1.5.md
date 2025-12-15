@@ -1,3 +1,5 @@
+![cultivation for dummies](../images/cultivation for dummies.png)
+
 ## Cultivation for Dummies
 ### A Beginner’s Guide to Not Dying Horribly
 #### Chapter 1: What Is Cultivation, Really?
