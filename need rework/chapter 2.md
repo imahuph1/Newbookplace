@@ -51,62 +51,92 @@ Just steam and silence.
 
 When he finally emerged, wrapped in a towel that didn’t smell like mildew, Jimmy felt lighter than he had in years.
 
-***
+## Dinner at the Cloud Hotel
 
-Dinner was… excessive.
+Dinner service began at sunset.
 
-A thick cut of roasted meat glazed with herbs. Fresh bread that cracked when torn. A bowl of soup rich enough to leave a sheen on the surface. Steamed vegetables that tasted like they had actually been grown, not scavenged.
+Jimmy arrived early, mostly because he was afraid they might change their minds if he didn’t. He stood just inside the dining room, briefly unsure where to put his hands. The room smelled like roasted meat, butter, and money.
 
-Jimmy ate slowly.
+A server noticed him immediately.
 
-Not because he wasn’t hungry—he was starving—but because eating too fast after long hunger made his stomach rebel. He knew that lesson well.
+“Table for one?” they asked.
 
-Each bite felt unreal.
+“Yes,” Jimmy said. “I come in that configuration.”
 
-Around him, merchants talked shop. A pair of newly awakened adventurers loudly compared skill descriptions. Someone laughed, full and carefree.
+The server paused, then gestured him toward a small table by the window. Jimmy sat carefully, as if chairs were still something that could betray him.
 
-No one paid him any attention.
+A menu was placed in front of him.
 
-He finished everything.
+He scanned it slowly, not because he was deciding, but because he had no idea how much any of it was supposed to cost. The numbers were absent, which was either classy or predatory.
 
-Every scrap.
+The server returned. “Our recommendation tonight is the prime rib.”
 
-When he leaned back, full and warm, Jimmy felt something unfamiliar settle in his chest.
+“I’ll take that,” Jimmy said quickly. “Before it realizes I’m here.”
 
-Contentment.
+The server smiled politely and left.
 
-***
+Jimmy folded his hands on the table and waited.
 
-His room was small but spotless. A real bed. A door that locked. A window that looked out over lantern-lit streets.
+Around him, other diners spoke in low voices. A man in fine clothes complained about dungeon drop rates. Someone else lamented that their awakening talent only worked _sometimes_. These were problems Jimmy had previously assumed were fictional.
 
-Jimmy lay down carefully, like the mattress might accuse him of something.
+The food arrived.
 
-He stared at the ceiling.
+The plate was heavy. The meat was thick, glistening, and unapologetic. Steam rose from it like it was trying to convince him it was real.
 
-Then, hesitantly, he opened his system storage.
+Jimmy stared.
 
-The sword rested there, its presence almost heavy even in stasis. The manuals glowed faintly. The pills sat neatly arranged.
+Then, very carefully, he cut a piece and put it in his mouth.
 
-And the gold—still there. Still real.
+He closed his eyes.
 
-“Tomorrow,” Jimmy whispered.
+For a moment, he was afraid. His body had learned to distrust abundance. Rich food could be dangerous. It could hurt you later, when it was gone.
 
-Tomorrow he would read. Train. Learn how cultivation even worked. Maybe enter a dungeon for the first time.
+But it didn’t.
 
-But not tonight.
+It was tender. Warm. Salty in the correct way. It did not fight back.
 
-Tonight, he slept.
+Jimmy chewed slowly, letting the realization sink in.
 
-The bed cradled him gently, and for the first time since he could remember, Jimmy Jones fell asleep without worrying about whether he would wake up alive.
+“Oh,” he whispered. “So _this_ is what hope tastes like.”
 
-***
+He ate everything.
 
-Next options:
+Not hurriedly. Not greedily. Methodically. As if finishing the plate would anchor it in reality. When the server returned to clear the dishes, they paused.
 
-* **Chapter 3: Cultivation for Dummies (and Jimmy realizing how broken Absolute Comprehension really is)**
+“Did you enjoy your meal?” they asked.
 
-* **First Dungeon Run (Level 1, cautious and methodical)**
+Jimmy looked at the empty plate.
 
-* **System Shop Tour (where he learns power has a price)**
+“I would die for it,” he said honestly.
 
-Just point the way.
+The server nodded, apparently having heard worse.
+
+Dessert followed—something with fruit and sugar and no discernible survival value. Jimmy ate it anyway. He was past the point of self-preservation.
+
+By the time he leaned back in his chair, warm and full, Jimmy realized something unsettling.
+
+He wasn’t hungry anymore.
+
+Not in his stomach.
+
+Not in his chest.
+
+The city outside glowed with lantern light as night settled in. Somewhere out there, people without shelter were already making bad calculations about distance and darkness.
+
+Jimmy watched from behind glass.
+
+For once, it wasn’t him.
+
+He returned to his room before the night could change its mind, locked the door, and lay on the bed.
+
+The mattress did not stab him. The ceiling did not leak. No one tried to steal his shoes.
+
+Jimmy stared upward.
+
+“Tomorrow,” he said.
+
+That felt dangerous too—but in a way he was willing to risk.
+
+He slept.
+
+Deeply.

@@ -68,3 +68,14 @@ looking back at it it was more to his tasted, a nice button up shirt, trousers t
 > **armor set tier one, contains two arrays.    array one when activated will actively draw spiritual energy to the wearer.  array two when activated will protect against most attacks from tier one beasts.**
 
 Nice, armor he can wear around town and will not draw undue attention to himself.  He can even wear it to dinner tonight instead of the thread bare stuff that he came in wearing, very nice.  Today has to be the best day of his life.
+There are still three hours left until dinner opens so Johnny decides to look at the cultivation manual and sword technique.
+
+> **Celestial Body Cultivation Manual**\
+> _Quality: Divine_\
+> _Description: Requires years for proper comprehension._
+
+The moment Johnny decided he wanted to pull the manual out of system storage it dissolved into motes of light and entered his brow.  No reading, not attempting to understand it simply entered his mind understanding simply… _arrived_.   His breathing adjusted on its own, his heartbeat slowed, settling into a precise rhythm, he could feel the energies around him slowly entering his body, circulating within it, refining the cells of his skin, muscles and bones into something more than what they were.   The technique required no additional thought or action from him, every breath seemed to draw something ephemeral inward and remove impurities from his own body.
+
+> **Celestial body cultivation technique learned**
+> **Status: Perfected.**
+

@@ -172,3 +172,6 @@ Then:
 
 ### Jimmy Jones backstory
 Homeless, scavenger, orphan, has no memory of his parents.  He is a scrappy survive now that he is over sixteen he can leave the city to run dungeons and hunt to make a bit more money.  
+
+### End of first book
+Jimmy Reaches trancendance, cannot progress further, streangth equivilant of what could be level 200, no further challanges on the continent, given a choice to brake the barrior to procede further or to live his remainin several hundered thousand years here.  the pay to win store closes, it can no longer help him.  the continent is a prison he can either attempt to brake free or live as a prisiner.  destroying the barrior will cause many issues for the people living here, their lives will forever be changed.  also whomever gave him the pay to win store and his class will be free for good or ill
