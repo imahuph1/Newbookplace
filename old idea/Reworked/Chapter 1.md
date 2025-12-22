@@ -146,7 +146,6 @@ Perfect.
 There were still three hours before dinner. With nothing else pressing, Jimmy turned his attention to the cultivation manual.
 
 > **Celestial Body Cultivation Manual**\
-> **Quality:** Divine\
 > **Description:** Requires years for proper comprehension.
 
 The moment he selected it, the manual dissolved into motes of light and flowed into his brow.
@@ -171,7 +170,7 @@ Next, he turned his attention to the sword technique manual. It too dissolved in
 > **Nine Swords Technique learned.**\
 > **Status: Perfected.**
 
-Nine sword forms entered his awareness, each flawless, each complete. Technique without technique. Form without pattern. The sword and the self becoming one.
+Nine sword forms entered his awareness, each flawless, each complete. Technique without rigidity. Form without pattern. The sword and the self becoming one.
 
 Jimmy wanted nothing more than to practice immediately—but he was even more worried about damaging the room and being forced to pay for it.
 
@@ -191,7 +190,7 @@ When it was over, he opened his eyes, heart pounding.
 
 He was glad he hadn’t taken one of the pills earlier. This was something that required safety.
 
-> **Congratulations. You have reached Body Refinement Stage One.**
+> **Congratulations. You have reached Body Refinement twenty percent completex**
 
 Strength coursed through him—quiet, dense, and real.
 
