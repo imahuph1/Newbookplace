@@ -131,3 +131,30 @@ Mike looks around, shelter first.  Mike focuses on a small tree with large leave
 Mike froze mid-thought.  "Inventory?  So this is a game type world, this must be some type of tutorial zone."  He focused inward the same way he had with Scan and a translucent grid unfolded in his mind's eye, two slots, clean, simple.  one with a pixelated picture of a stack of logs, a simple 10 written over it, the other a picture of a pile of leaves, a simple 40 written over it.  Nice this should make things easier he thought.  Until he tried to take a step.
 
 Slowly he moved his right foot out to where it was going to plant, then his left foot, painfully slowly he moved.  Now he began to understand the reduced movement speed, he is moving at most 25 percent the speed that he had been walking just moments before.  Thankfully he did not have to move far.  With a thought he removed the logs and leaves from the inventory and a neat stack of ten logs and a large pile of leaves appeared on the ground next to the cliff face.
+
+Mike spent the next six hours building a lean to against the cliff face, gathering the vegetables, making a bowl out of stone, boiling the water and making a thin stew.  He watched the sky gradually grow darker, so he thought their is a day night cycle.  Nights in games are usualy dangerous, if their are no monsters during the day, then they tend to appear at night.
+
+> **Please note, in 12 hours the first beasts will spawn. countdown begins.**
+
+So he thought the first night is free, better take advantage of it while I can.  Mike lay down in his lean-to and let relaxation and a full belly of hot soup take him into a deep slumber.
+
+***
+
+Mike awoke as the sky began to lighten, the countdown timer in his vision showed 10 minutes remaining to the spawning of the beasts time to ready himself.  He now has over 1000 attribute points available to him and so he decides to spend them.
+
+> **Attributes:**
+>
+> * Strength: 1  +99  =100
+>
+> * Agility: 1  +199  =200
+>
+> * Vitality: 1 +199 =200
+>
+> * Intelligence: 15 +285 =300
+>
+> * Willpower: 15  +285 =300
+
+Mike let the numbers settle, his body caught up.  Warmth flooded his limbs first, deep and steady.  Muscles tightened, knitting together with dense, efficient strength.  bones stopped aching, his spine straightened without effort.  His breathing deepened, lungs pulling air in smoothly instead of scraping for it.  He stood this time no tremble.  Mike rolled his shoulders, the motion effortless, precises.  When he shifted his weight, the he felt _lighter_ as if gravity had lost interest in him.  
+
+Time continued to tick down, eight minutes left.  He focused his mind again, lifting one stone after another until a dozen floated around him, each the size of his head.  Lifting one before felt impressive, now this felt trivial.  Each stone around him traveling in its own orbit, each responding to the smallest flicker of intent.
+

@@ -1,145 +1,343 @@
-—**Inventory unlocked.**—
 
-The notification slid into existence as calmly as the rest of the system messages had.
+The countdown hit zero.
 
-Mike froze mid-thought.
+The forest **exhaled**.
 
-“Inventory?” he repeated.
+It wasn’t a sound so much as a pressure change, like the world itself shifting gears. The dead silence shattered as something fundamental rewrote itself. The air grew heavier. Colors deepened. The water in the pond rippled outward in perfect concentric rings.
 
-He focused inward the same way he had with Scan, and a translucent grid unfolded in his mind’s eye. Ten empty slots. Clean. Simple.
+> **Beasts have spawned.**\
+> **Newbie Realm Boss has appeared.**\
+> **Warning: Lethal Entity Detected.**
 
-**Inventory Capacity:** 10 kg\
-**Occupied:** 0.0 kg
+Mike didn’t move.
 
-A moment later, the uprooted carrots, potatoes, and onions he’d torn free from the soil _blinked_ out of reality and reappeared neatly stacked inside the grid. Each item had a faint outline, a subtle glow, and—because this world apparently believed in being helpful—labels.
+He didn’t need to.
 
-_Common Carrot (x6)_\
-_Common Potato (x4)_\
-_Common Onion (x2)_
+His Scan expanded automatically, awareness slamming into something _big_ the moment it crossed into range. The thing didn’t hide its presence—if anything, it broadcast it. Hunger. Territorial dominance. A pressure like a storm front rolling in.
 
-Mike let out a slow breath.
+The trees at the far edge of the clearing bent outward as something forced its way through.
 
-“Digital,” he said quietly. “Definitely digital.”
+It stood nearly four meters tall at the shoulder, a wolf-shaped mass of muscle, bone, and black chitinous plates fused into its hide like natural armor. Six eyes glowed a dull amber, arranged asymmetrically across a skull that looked partially unfinished, as if the world hadn’t quite decided what it wanted this thing to be.
 
-The tree was next.
+Its health bar slammed into Mike’s vision.
 
-He’d barely exerted himself—just a gentle squeeze of intent—and the trunk had snapped cleanly. No resistance. No strain. The moment it hit the ground, the massive form shimmered, broke apart into geometric fragments, and resolved into neatly stacked items.
+> **Gravewarden Fenrir (Boss)**\
+> **Level:** ???\
+> **HP:** 100%
 
-_Wood Log (x8)_
+The beast sniffed the air.
 
-They, too, slid into the inventory.
+Then its gaze locked onto Mike.
 
-Mike stared at the remaining stump, then at the empty air where eight logs _should_ have been.
+The pressure spiked. This thing was meant to terrify new players—to teach them fear, death, or obedience. A walking lesson in humility.
 
-“This isn’t a world,” he murmured. “It’s a system sandbox.”
+Mike felt… none of that.
 
-That was… concerning. And comforting. Mostly concerning.
+Instead, a strange calm settled over him, the same one he’d felt waking up in the coffin. Because this wasn’t chaos.
 
-Still, the rules were consistent so far. Consistency meant leverage.
+This was a system.
 
-He checked his status again.
+“Alright,” Mike said softly. “Let’s test some assumptions.”
 
-***
+The Fenrir lunged.
 
-**Unassigned Attribute Points:** 23\
-(They’d been ticking up steadily while he worked.)
+The ground exploded beneath its paws as it crossed the clearing in a blur, faster than anything Mike had seen since waking up in this world. For a normal level-one, this would have been instant death.
 
-Mike didn’t rush to spend them.
+Mike didn’t dodge.
 
-That was another lesson from his first life—money burned a hole in your pocket if you let it. Power did the same.
+He raised his hand.
 
-Instead, he crouched by the pond and cupped water in his hands. It was cold, clear, tasteless. Real enough to matter.
+The stones orbiting him snapped forward.
 
-“Shelter,” he said, returning to priorities.
+Not thrown.
 
-Using Psychokinesis delicately, he dragged several logs from his inventory and arranged them into a crude lean-to against a rock face. No nails, no rope—just pressure and placement, logs pressed together with invisible force until friction and gravity did the rest.
+_Commanded._
 
-It wasn’t pretty.
+Psychokinesis wasn’t about force alone—it was authority. Each stone accelerated independently, trajectories adjusting mid-flight with microscopic precision. One smashed into the beast’s snout, another into its left shoulder joint, a third directly into its chest plate.
 
-It was functional.
+The impacts sounded like artillery.
 
-By the time he was done, he had a small windbreak, a dry patch of ground, and a sense of control that felt almost intoxicating.
+The Fenrir was knocked sideways, carving a trench through the dirt before crashing into a tree hard enough to snap it in half.
 
-Mike sat cross-legged inside the shelter, back against the rock, and watched the points tick up.
+> **Boss HP: 94%**
 
-+1.\
-+1.\
-+1.
+Mike blinked.
 
-Every minute, like a heartbeat.
+“…Huh.”
 
-He finally spent some.
+The beast rose immediately, shaking its head, eyes burning brighter now. It was hurt—but not badly. Its armor cracked where the stones had struck, but regeneration was already knitting the damage closed.
 
-Not much—just enough to stop feeling like a stiff breeze could kill him.
+So. High defense. High vitality. Probably some bullshit regeneration trait.
 
-He nudged **Vitality** up to 5. Then **Strength** to 3. The changes were subtle but immediate: warmth spread through his limbs, the constant ache in his joints faded, and his breathing deepened.
+Good to know.
 
-No flashy glow. No pain.
+The Fenrir roared, a sound that vibrated through bone and soil alike, then vanished.
 
-Just improvement.
+Not ran.
 
-“Efficient,” Mike approved.
+_Vanished._
 
-He cooked nothing—there was no fire yet, and raw carrots beat starvation—but as he ate, his mind worked.
+Mike’s Scan flared.
 
-No wildlife. No ambient sound. Plants spawned, but animals didn’t.
+Behind.
 
-That suggested one of three things:
+He twisted, Agility carrying him out of the way just as massive jaws snapped shut where his head had been. The shockwave alone shattered stones and flattened grass.
 
-1. This zone was a tutorial or starter area.
+He landed lightly, sliding back a step.
 
-2. The ecosystem hadn’t loaded yet.
+“Fast,” he admitted. “And stealth-capable.”
 
-3. Everything dangerous had already eaten everything else.
+The beast turned, muscles coiling for another charge.
 
-Mike hoped for option one.
+Mike sighed.
 
-He leaned his head back and stared at the sky.
+“Guess we escalate.”
 
-No sun. No moon. Just uniform light.
+His Willpower surged.
 
-Time passed anyway.
+The air itself seemed to thicken as his control extended—not just to loose objects, but to _everything not nailed down by the system_. Dirt. Pebbles. Splinters of wood. Water from the pond rose in shimmering ribbons, freezing mid-air as if gravity had been politely asked to wait.
 
-At some point—without warning—the light dimmed slightly. Not darkness, but… evening, maybe. A simulation of it.
+The Fenrir hesitated.
 
-Mike didn’t sleep so much as drift. Half-resting, half-aware, counting points as they accrued. By the time his body demanded real rest, he had over a hundred unassigned points waiting.
+For the first time, uncertainty flickered through its six eyes.
 
-When he woke, nothing had changed.
+Mike clenched his fist.
 
-No monsters. No messages. No ambush.
+The world _crashed inward_.
 
-Just silence.
+Hundreds of fragments slammed into the boss from every angle, not as a swarm, but as a converging storm. The water compressed into needle-thin jets, drilling into joints and eye sockets. Stones hit with enough force to crater armor. The ground beneath the Fenrir collapsed upward, impaling it from below with jagged spikes of earth.
 
-That confirmed it.
+The clearing shook.
 
-“This really _is_ a starting zone,” he said.
+When the dust settled, the beast lay pinned, roaring in fury and pain.
 
-Which meant someone—or something—expected players.
+> **Boss HP: 61%**
 
-And players meant progression.
+Mike stared.
 
-Progression meant attention.
+“…Yeah,” he said slowly. “That’s more like it.”
 
-Mike stood and stretched, feeling the unfamiliar strength beginning to settle into his bones.
+The Fenrir thrashed, muscles bulging grotesquely as it _forced itself free_, tearing chunks of earth and stone away with brute strength. Blood—dark and smoking—splashed onto the ground as it stood again, wounded but very much alive.
 
-He spent another chunk of points, pushing **Vitality** and **Strength** higher, nudging **Agility** just enough that his movements stopped feeling clumsy.
+Its eyes locked onto Mike with something new now.
 
-Then he smiled.
+Not hunger.
 
-It wasn’t a nice smile.
+_Hatred._
 
-“In less than a month,” he said to the empty forest, “I’ll be stronger than your level-one-hundred legends.”
+> **Warning:** Boss has entered **Rage State**\
+> **Threat Level Increased**
 
-Psychokinesis stirred around him, pebbles lifting from the ground, spinning lazily like planets around a star.
+Mike smiled.
 
-“And the question isn’t whether I’ll matter.”
+Not wide. Not cruel.
 
-The stones stopped.
+But real.
 
-His gaze hardened.
+“So,” he murmured, stones lifting again, more than before, denser, tighter orbits. “You can hurt me.”
 
-“It’s who’s going to try and tell me what to do about it.”
+He took one step forward.
 
-Somewhere, beyond the edges of the silent zone, the system waited.
+“I wanted to know that.”
 
-And for the first time since arriving in this world, Mike was ready to go meet it.
+The air screamed as the Fenrir charged again, faster than before, rage burning away restraint.
+
+Mike met it head-on.
+
+Not to save humanity.
+
+Not for glory.
+
+But because power like this deserved to be _tested_.
+
+And somewhere, deep in the system’s unseen architecture, something took notice.
+
+The Fenrir hit him like a living battering ram.
+
+The impact _should_ have shattered bones, liquefied organs, erased a level-one body from existence.
+
+Instead, it stopped.
+
+Not slowed.
+
+_Stopped._
+
+Mid-lunge, mid-snarl, suspended less than a meter from Mike’s face.
+
+The beast thrashed, muscles bulging, claws scraping uselessly through the air as if caught in invisible amber. Its rage rolled off it in waves—but rage was still just _motion_.
+
+And motion belonged to Mike now.
+
+Psychokinesis wasn’t strength.
+
+It was **permission revoked**.
+
+Mike’s Willpower spiked, a clean, terrifying certainty settling in his mind. He didn’t push harder. He didn’t strain.
+
+He _compressed_.
+
+The air around the Fenrir collapsed inward, pressure stacking layer upon layer, crushing armor plates against flesh, flesh against bone. The ground beneath the beast liquefied under the force, forming a shallow crater as the system struggled to reconcile physics with authority.
+
+The Fenrir screamed.
+
+Its health bar plummeted.
+
+> **Boss HP: 42%**\
+> **Boss HP: 27%**\
+> **Boss HP: 11%**
+
+Still, it refused to die.
+
+Regeneration flared violently, black veins glowing as the beast burned its own life force to keep going. Its eyes locked onto Mike, no longer hateful.
+
+_Desperate._
+
+Mike tilted his head slightly.
+
+“So that’s the trick,” he said calmly. “You’re not tough. You’re just cheating.”
+
+He lifted his left hand.
+
+The water still suspended from the pond twisted, condensing into a single, impossibly thin filament—clear as glass, sharp as intent. At the same time, every loose fragment of stone aligned behind it, spinning, accelerating, focused into a single vector.
+
+A spear made of **decision**.
+
+Mike flicked his wrist.
+
+The filament punched through the Fenrir’s skull without resistance, passing clean through its core and pinning it to the earth behind it. The stones followed a heartbeat later, detonating inside the beast’s body.
+
+The roar cut off mid-sound.
+
+The body twitched once.
+
+Then went still.
+
+> **Boss HP: 0%**\
+> **Gravewarden Fenrir defeated.**
+
+Silence returned to the clearing—but it was different now. Not empty.
+
+_Witnessing._
+
+Mike exhaled slowly, releasing his hold. The pressure vanished, gravity reasserted itself, and the world snapped back into place like a rubber band released too suddenly.
+
+He expected the familiar rush.
+
+The chime.
+
+The surge of experience.
+
+Instead—
+
+> **No EXP granted.**\
+> **Reason:** Level disparity exceeds maximum gain threshold.
+
+Mike stared at the message.
+
+Then snorted. “Figures.”
+
+The Fenrir’s corpse began to dissolve, breaking apart into motes of dark light that spiraled inward instead of dispersing.
+
+The system paused.
+
+Then—
+
+> **Boss Loot Override Active.**\
+> **Unique Conditions Met.**
+
+Three objects materialized where the beast had fallen, hovering briefly before settling onto the ground.
+
+The first was a **crystal glyph**, rotating slowly, its surface etched with symbols that hurt to look at directly.
+
+> **Divine-Class Inheritance: _Sovereign of the Unbound Will_**\
+> **Rarity:** Divine\
+> **Condition:** Unclaimed\
+> **Description:** A class for those who impose reality rather than negotiate with it.
+
+Mike’s breath caught.
+
+Divine.
+
+Not legendary.
+
+Not mythic.
+
+_Divine._
+
+The second item split into two scrolls, bound in black and silver thread respectively.
+
+> **Skill Scroll (Legendary): Absolute Vector Control**\
+> **Skill Scroll (Legendary): Mental Domain**
+
+He didn’t even need to read the descriptions to understand how broken those sounded.
+
+Then the last item appeared.
+
+A simple roll of leather that unfurled itself mid-air.
+
+One hundred throwing knives floated up, arranging themselves into a perfect circle. Each blade was matte black, edges humming faintly, as if reality itself resented their presence.
+
+> **Weapon Acquired:** Shadowbound Throwing Knives x100\
+> **Rarity:** Legendary\
+> **Bound Effect:** Automatically returns to wielder\
+> **Scaling:** Willpower & Intelligence\
+> **Special Trait:** Perfect Obedience
+
+Mike slowly reached out.
+
+The knives _leaned toward him_.
+
+He smiled.
+
+Before he could touch anything, the sky itself **fractured**.
+
+Golden text burned across the heavens, vast enough to be seen far beyond the clearing, far beyond the forest, far beyond the newbie realm.
+
+> **Realm Announcement**\
+> **Attention all entities:**\
+> **The First Boss of the Newbie Realm has been slain.**\
+> **Killer:** Mike (Unregistered)\
+> **Method:** Solo\
+> **Level Difference:** Extreme\
+> **Evaluation:** Anomaly Detected
+
+The text lingered.
+
+Then—
+
+> **System Award Granted**\
+> **Title Earned:** First Breaker\
+> **Effect:** All future system evaluations observe but do not interfere.
+
+The forest trembled.
+
+Somewhere—far away—something ancient **looked up**.
+
+Mike stood in the center of the clearing, thin body now standing straight, eyes sharp, power coiled so tightly around him it barely leaked.
+
+He looked at the divine class glyph.
+
+At the legendary skills.
+
+At the knives waiting for a thought.
+
+“No experience,” he said quietly.
+
+Then he laughed, low and genuine.
+
+“Good.”
+
+He picked up the glyph.
+
+“Would’ve been a waste anyway.”
+
+And far above the realm, beyond the system layers meant for mortals, the question he’d asked himself returned—no longer hypothetical.
+
+Do I fight for humanity?
+
+Or do I fight for myself?
+
+The world had just answered.
+
+Now it was everyone else’s turn to react.
+
