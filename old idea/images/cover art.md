@@ -1,1 +1,0 @@
-![power fan pic.png](power fan pic.png)
