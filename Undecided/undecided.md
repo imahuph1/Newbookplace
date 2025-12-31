@@ -158,3 +158,95 @@ Mike let the numbers settle, his body caught up.  Warmth flooded his limbs first
 
 Time continued to tick down, eight minutes left.  He focused his mind again, lifting one stone after another until a dozen floated around him, each the size of his head.  Lifting one before felt impressive, now this felt trivial.  Each stone around him traveling in its own orbit, each responding to the smallest flicker of intent.
 
+Mike continued to practice with his newfound strength.  He found he could even control things he could not see, as long as he could sense it even through the scan skill he could affect it.
+
+The countdown hit zero, the forest _exhaled_.
+
+It wasn't a sound so much as a changed in the atmosphere.  The world itself shifted gears. The dead silenced shattered, bird songs, chattering squirrels, insect buzz.  
+
+> **Beasts have spawned.**
+> **Tutorial boss has appeared.**
+
+Mike didn't move, he didn't need to.  His Scan expanded automatically, awareness slamming inot something _big_ the moment scan was cast.  The thing did not hide its presence, if anything it broadcast it.  hunger, territorial dominance, a pressure like a storm front rolling in.
+
+It Stood nearly four meters tall at the shoulder, a wolf-shaped mass of muscle, bone, and black chitinous plates fused into its hide like a natural armor.  It's eyes glowed a dull amber, staring directly at Mike with a sense of disdain.  
+
+> **Gravewarden Wolf (Boss)**\
+> **Level:** 10\
+> **HP:** 100%
+> **total stats 500**
+
+"Alright," Mike said softly.  "About half my total stats, not to strong, time to test some assumptions."
+
+The wolf lunged.  The ground exploded beneath its paws as it crossed the clearing in a blur,  Faster than any animal Mike had seen in his life. For any normal level one, this would have been instant death.  Mike did not dodge, the stones orbiting him snapped forward, launched like artillery shells.  Each stone accelerated independently, trajectories adjusting mid flight with microscopic precision.  Two dozen stones, each weighing about 15 kg impacted the wolf like cannon balls.  The wolf was knocked sideways, carving a trench through the dirt before crashing into a tree hard enough to snap it in half.
+
+> **HP: 80%**
+
+Mike blinked, "...Huh."  
+The beast rose immediately, shaking its head, eyes burning brighter now, it was hurt, but not badly.  Its armor cracked where the tones had struck, but regeneration was already knitting the damage closed. 
+
+So, high defense, high vitality, probably sum outrageous regeneration trait. Yup a boss, not overly strong, it is the tutorial, but still annoying enough to need a large team to take down.
+
+The wolf roared, a sound that vibrated through bone and soil alike, then vanished, not ran, _vanished_.  
+
+"Hmm," he muttered.  "Stealth capable, annoying.  Guess we escalate."
+
+His willpower surged.  He built walls of pure willpower around him, invisible but impenitrable.  Nothing could get through without Mike allowing it.
+
+The wolf lunged like a battering ram at Mikes back, a strike the wolf was sure would take Mikes life.  The impact _should_ have shattered bones, liquefied organs, fangs ripping through flesh.  Instead, it hit a wall and stopped with a crunch.  Mid lunge, mid snarl, less than a meter from Mikes back.
+
+Mike smiled and turned, wrapping his will around the wolf, he began to compress, squeezing the wolf down to a smaller size, bones began to crack under the strain, howls of pain each second that passed its health bar plummeted. Still it refused to die, its regeneration began to match the damage speed.
+
+Mikes head tilted slightly, goodness, the dps required to kill this thing is insane, it would take a large team outputting at a insane rate to kill this thing. "I hate cheat bosses, die." Mikes willpower surged reaching in and crushing the wolfs heart.
+
+> **Gravewarden Wolf defeated.**
+>  **no EXP grated,** greater than 5 level difference
+
+The wolfs corpse began to dissolve, breaking into motes of light that spiraled outward, dispersing slowly.  Three objects appeared in Mikes storage space, A golden book, a golden scroll, and pile of wolf meat.
+
+> **realm announcement, the tutorial boss has been killed, time taken one minute and forty five seconds**
+>  **congratulations to the team who killed the boss, rewards granted 100 gold coins, one hidden class, two skill scrolls, one mythic weapon.**
+> **first boss kill of the tutorial complete, next boss spawn 12 hours, drops will be reduced**
+
+The announcement hit the tutorial realm like a hammer.
+
+The other people, all sixteen, who are just now out of school, having awakened their panels and talents, all wanting to gain a good class at level 10, all who have just begun to learn how to fight.
+
+When they heard the announcement began to curse, how is it even possible, they all stayed at the edge of the secret realm, knowing that here the beasts are all level one, it is a six hour hike with no interference to get to the center of the secret realm, to where the boss is.  Who would be dumb enough to head there at level one.  
+
+Who could be strong enough to battle and defeat a level 10 boss at level one, what team is crazy enough, has enough damage, to battle a boss with a huge health pool, regeneration, and stealth.
+
+Rumors spread faster than EXP.
+
+“It was a team.”\
+“No, it had to be a solo.”\
+“They cheated.”\
+“SSS talent, I heard.”\
+“What if it’s not human?”\
+“Does it matter?”
+
+Greed crept in quietly.
+
+If someone could do _that_ at level one, what would their drops look like later?
+
+What would their corpse look like?
+
+People started forming groups—not for grinding, but for _watching_. For tracking movement patterns. For marking territory.
+
+Mike checked his inventory, a new book, two new scrolls, and a set of 100 knives had appeared.  
+
+The book glowed shifting between colors, the hidden class, currently unusable, minimum level of ten to use.  Of course, the knives where able to be equipped though, so mike equipped them.  
+> **shadow throwing knives**
+>  rank mythical
+>  Damage 1.5 times intelligence
+>  automatically return to owner after impact
+
+"Well time to find some lower level beasts, If I am going to gain a class, i need to find beasts level six and below."  With that thought Mike began to walk away from the boss zone.
+
+Mike drew his knifes, one hundred slim, black blades appeared around him in a loose halo, each humming faintly as his will brushed against them, they were light, almost weightless to his senses, and the moment he stopped feeding power into them, they stilled obediently, hovering just behind his shoulders.  
+
+He took one last look at the clearing behind him.  Already the ground was smoothing itself out, broken trees fading into motes of light, even the trench carved by the wolf filling in. 
+
+After walking and fighting for about three hours the beasts became easier and easier to defeat.  The density remained about the same, not to many in any one area, but not to few.  Finally the long awaited exp gained system note popped, he had killed a level six boar.
+
+"Finally," Mike thought, "a target," and the slaughter began, one knife, one boar, and more experience.
