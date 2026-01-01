@@ -1,132 +1,149 @@
-### Awakening Day
-
-Mike had never touched the spotlight in his life.
-
-Not in middle school.\
-Not in high school.\
-And definitely not at East Harbor Warrior Academy, where talent decided everything.
-
-He wasn’t weak enough to be pitied, and he wasn’t strong enough to be remembered.
-
-Average scores.\
-Average reflex tests.\
-Average qi sensitivity.
-
-The kind of student teachers forgot five minutes after class ended.
-
-So when his name was called during Awakening Day, there was no reaction.
-
-“**Mike Calder.**”
-
-A few students glanced over, then immediately lost interest. No whispers. No betting pools. The geniuses were already done, and the failures were already crying. Mike belonged to neither group.
-
-He stepped onto the platform, palms slightly damp, and placed his hand on the **Awakening Stone**.
-
-Cold.
-
-That was the first thing he noticed.
-
-The second was that the shadows in the hall… moved.
+I’ll continue **directly from your last paragraph**, preserving the understated tone and avoiding sudden exposition dumps or dramatic reveals. The world will react first—_then_ the truth starts to leak in.
 
 ***
 
-### The Awakening Stone Reacts
+The line continued to move.
 
-At first, nothing happened.
+Another student stepped forward. Another hand touched the stone. Life, somehow, went on as if nothing unusual had happened.
 
-The stone stayed dull gray, its surface unresponsive. A teacher was already opening his mouth to announce _“No significant resonance”_—
+Mike stood with the rest of his class at the edge of the stage, hands at his sides, posture relaxed in a way that only came from years of being overlooked. The mark on the back of his right hand felt warm, heavier than skin should feel, like it was resting just beneath the surface instead of on it.
 
-Then the shadows beneath the students’ feet **twitched**.
+He didn’t show it to anyone.
 
-Lights flickered.
+Not because he was hiding it—just because no one asked.
 
-The Awakening Stone darkened—not glowing, not shining—but **deepening**, like ink soaking into water.
+The proctors were busy cataloging awakened students, ushering them toward a side door where officials waited with clipboards and scanners. Those without marks were dismissed in orderly groups, faces tight with disappointment or forced indifference.
 
-A sharp intake of breath rippled through the hall.
+Mike assumed he’d be sent to the awakened line eventually.
 
-“Shadow attribute?” someone muttered.
+He wasn’t.
 
-“No,” another whispered. “That’s not normal shadow.”
+“Class three, dismissed,” the instructor called.
 
-Mike felt something **open** inside him.
+Mike blinked.
 
-Not power flooding in—but _splitting_.
+He followed the rest of the class out of the auditorium, the afternoon sun momentarily blinding after the dim interior. The stone, the stage, the proctors—all of it fell behind him as if his awakening had been… unremarkable.
 
-Behind him, his shadow peeled itself off the floor.
+That should have been reassuring.
 
-And stood up.
+It wasn’t.
 
-***
+As they walked, Mike became aware of something subtle. Shadows lingered a fraction longer around his feet. When he passed beneath an overhang, the darkness there felt deeper, thicker, like it noticed him.
 
-### Top-Tier Talent: Shadow Clone
+He stopped walking.
 
-The hall exploded.
+The shadow stopped with him.
 
-The shadow figure solidified into a perfect copy of Mike—same uniform, same stunned expression—except its eyes were pitch black, reflecting no light.
+Mike frowned and shifted his foot.
 
-The Awakening Stone shattered.
+The shadow followed perfectly.
 
-System text scrolled across the central display, letters trembling as if resisting their own existence:
+Too perfectly.
 
-> **Talent Confirmed**\
-> **Classification: Top Tier (Rare)**\
-> **Name: Shadow Clone**\
-> **Evaluation Status: Incomplete — Scaling Detected**
+He shook his head and kept moving. _I’m imagining things,_ he told himself. The adrenaline, the exhaustion—people saw patterns everywhere on awakening day.
 
-Silence followed.
+By the time he returned to the academy grounds, officials were already waiting.
 
-Then chaos.
+Two men in dark uniforms stood near the main gate, posture rigid, eyes scanning the flow of students. When Mike approached, both of them looked directly at him at the same time.
 
-Teachers stood frozen.\
-Students stared like they’d just watched history happen.\
-The principal slowly rose from his seat.
+“Mike Valen,” one of them said, not a question.
 
-“A… scalable top-tier talent?” he whispered.
+Mike sighed inwardly. _There it is._
 
-Those only appeared once every few decades.
+“Yes?”
 
-And Mike—_average, invisible Mike_—had just awakened one.
+“Please come with us. There’s been a… discrepancy.”
 
-***
+That word again. Carefully chosen. Non-threatening.
 
-### From Nobody to the School’s Last Hope
+Mike nodded and followed without protest.
 
-Within an hour, everything changed.
+They led him not to the main administrative building, but to a smaller structure set slightly apart from the rest of the campus. No signage. No windows on the lower level.
 
-His schedule was rewritten.\
-His dorm was relocated.\
-Senior instructors demanded private evaluations.
+Inside, the air was cool and dry. The lights were low.
 
-The upcoming **National Warrior Trials** loomed over the academy like a guillotine. East Harbor had been declining for years—no top placements, dwindling funding, whispers of shutdown.
+“Please place your right hand on the scanner,” the second man said, gesturing to a metal plate mounted on the wall.
 
-Now?
+Mike did so.
 
-Now they had Mike.
+The scanner hummed.
 
-A student who could:
+Paused.
 
-* Be in multiple training rooms at once
+Then hummed louder.
 
-* Advance faster the more he trained
+The man operating the console frowned, tapping at the screen. “That’s odd.”
 
-* Scout, fight, and cultivate simultaneously
+“What is?” the first asked.
 
-A faculty meeting ended with a single sentence written on the board:
+“It’s not resolving. The mark is there, but the system can’t classify it.”
 
-> **“Protect Mike Calder at all costs.”**
+Mike glanced down at his hand.
 
-As for Mike?
+The mark looked the same as before—dark, intricate, unmoving. But as he watched, he could swear one of the lines shifted slightly, like ink settling into a new shape.
 
-He sat alone in a training room that night, staring at his reflection.
+“Try a deeper scan,” the first man said.
 
-Except it wasn’t alone anymore.
+The hum deepened. The lights flickered.
 
-Ten shadows stood behind him, perfectly silent.
+The temperature dropped.
 
-And somewhere deep inside, he realized—
+Mike felt it then—_a presence_. Not external. Not watching.
 
-This world had been built on the assumption that one warrior equaled one body.
+Waiting.
 
-That assumption was about to break.
+The console beeped sharply and shut itself off.
 
+Silence filled the room.
 
+The two officials exchanged a look.
+
+The first man cleared his throat. “Mr. Valen, for the moment, your awakening will be logged as… pending.”
+
+“Pending?” Mike echoed.
+
+“Yes. You’ll return home today. Do not discuss your mark with anyone. You will be contacted.”
+
+Mike raised an eyebrow. “Is that all?”
+
+The man hesitated, then nodded. “For now.”
+
+Mike shrugged. “Alright.”
+
+He turned and left without another word.
+
+Outside, the sun was already beginning to dip toward the horizon. Long shadows stretched across the stone paths, overlapping, merging.
+
+Mike walked through them.
+
+They parted around him.
+
+That night, alone in his room, Mike sat on the edge of his bed and stared at the mark on his hand.
+
+“It’s just a talent,” he muttered to himself. “Plenty of people awaken strange ones.”
+
+The shadow cast by his desk lamp rippled.
+
+Slowly—deliberately—it rose.
+
+Not off the wall.
+
+_Toward him._
+
+Mike froze.
+
+The shadow thickened, pulling itself upward like a living thing peeling free from the floor. It stopped inches from his feet, then split cleanly in two.
+
+A figure took shape.
+
+Same height. Same build.
+
+Same face.
+
+The shadow clone opened its eyes.
+
+And knelt.
+
+Mike exhaled slowly.
+
+“…yeah,” he said quietly. “So much for ordinary.”
