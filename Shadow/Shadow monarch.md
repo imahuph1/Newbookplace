@@ -1,12 +1,12 @@
 # 1 - Shadow Monarch
 ## I was supposed to die
-It was just another night at the convenience store, the usual subject have come in and gone.  The drunks, the meth heads, the stoners, the other people who work odd shift hours.  Two AM, five hours left to go and I can go home and rest my eyes, play some games, do something, anything other than stand here listening to the hum of florescent bulbs and clean up after the ungrateful masses who seem to enjoy trashing the bathrooms.
+It was just another night at the convenience store, the usual subjects have come and gone.  The drunks, the meth heads, the stoners, the other people who work odd shift hours.  Two AM, five hours left to go and I can go home and rest my eyes, play some games, do something, anything other than stand here listening to the hum of florescent bulbs and cleaning up after the ungrateful masses who seem to enjoy trashing the bathrooms.
 
 The chime of the door gets my attention.  I put out the wet floor sign and head to the front.  I get two bullets in the chest for my effort.  Some young kid, probably not older than fifteen, took one hundred from the cash register and two cartons of Newport's.  He just left me there bleeding out on the floor.
 
 The next thing I know I am waking up in the hospital.  The chemically cleaned air, and the same annoying buzz of florescent bulbs.  Next thing to hit me is the pain, a sharp pain in my chest, they apparently had to crack it open to remove one of the slugs.  Good luck getting any money out of me, not that I don't appreciate the skill of the surgeon and staff who saved my life, but I have no money, heck I make 7.25 an hour, just enough to pay for an apartment that makes solitary confinement look like a luxury hotel room.  No assets to speak of, no car, no phone, no TV, an old laptop that I pulled from the garbage and got running enough to play some older games. Heck I borrow the WIFI signal of the supermarket across the street.  
 
-As i lay their wondering when the nurse is going to come in and check on me and the other fine gentlemen, wondering if I still have a job at the convenience store, that is when I am sure I have lost my mind.
+As I lay their wondering when the nurse is going to come in and check on me and the other fine gentlemen, wondering if I still have a job at the convenience store, that is when I am sure I have lost my mind.
 
 > Congratulations on your successful re-incarnation.
 > Welcome to your new life in a fantasy world Mike
