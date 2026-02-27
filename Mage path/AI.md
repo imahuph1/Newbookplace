@@ -168,7 +168,7 @@ The world unprepared.
 
 James did not cry.
 
-He simply stared at the wooden ceiling beams above his crib and began calculating.
+He simply stared at the wooden ceiling beams above his bed and began calculating.
 
 This time—
 
