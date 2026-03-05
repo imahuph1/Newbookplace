@@ -1,360 +1,100 @@
-# Overpowered cheats
+# Cheats
 
-## SSS rank dark magic
-* rapid learning of all dark magic skills
-* can form weapons from shadow
-* stealth, burst damage, one hit kills are the primary fighting style
-* Shadow stores clones, living entities, items, ect.  unlimited size.
+## Core Ability – Shadow Space
 
-## Shadow clones:
-* summon one clone every half an hour no upper limit on number of active clones
-* Each clone has the same skills and stats as the MC
-* Clones can hide in his or others shadows, undetectable when hidden
-* each active clone increases advancement speed
+You possess a personal extradimensional storage realm called Shadow Space.
 
-## Damage sharing
-* Any damage received to main body is shared among all active clones.
+### Properties
 
+Can store any non-living object.
 
-# ARC I — **THE NIGHT PROBLEM**
+Objects are perfectly preserved.
 
-_Local Vigilante → Urban Myth_
+Accessed mentally; retrieving or storing items requires focus.
 
-### Scope
+No living beings may be stored.
 
-* City-level
+## Primary Talent – Shadow Echo (Shadow Clone)
 
-* Street crime, predators, untouchables no one protects
+Activation: Once per level gained
+You may create one permanent Shadow Clone that resides in Shadow Space.
 
-* Operates invisibly
+### Shadow Clone Rules  
 
-### Targets
+Stats exactly match your base stats.
 
-* Human traffickers
+Clones cannot physically interact with the real world.
 
-* Serial offenders
+Clones may train, study, read, practice, and simulate combat inside Shadow Space.
 
-* Protected gang leadership
+All knowledge, skill progression, and learned techniques are transferred to the originator.
 
-* Violent repeat criminals who “slip through the cracks”
+Books read or skills practiced by clones count as if you performed the training yourself.
 
-### Method
+Stat Amplification:
 
-* Precision
+Each active clone adds its base stats to your own.
 
-* No witnesses
+This is additive stacking.
 
-* No bodies
+If your base Strength is 10 and you have 3 clones, your effective Strength becomes 40.
 
-* No claims of responsibility
+## Class Weapon summoner
 
-People vanish:
+Can summon weapons and amunition.  Summons are perminant, can summon weapon and ammunition prior to fight, allowing for preperation, can summon more than one weapon, can summon holsters/scabards, belts, bandoliers ect to hold weapons.
+As levels progress amunition will gain special effects.
 
-* From locked rooms
+### Level Progression
 
-* From moving vehicles
+#### Level 1
 
-* From police custody transfers
+You gain access to:
 
-### Public Narrative
+Flintlock Pistol = damage equal to Int
 
-At first:
+Muzzle loader rifle = damage 1.5x Int
 
-* “Unrelated incidents”
+Ammunition
 
-* “Gang-on-gang violence”
+Gunpowder supply
 
-* “Runaways”
+Rapier = damage 2x str.
 
-Then:
+You may store all of these in Shadow Space.
 
-* Crime statistics drop in specific neighborhoods
+#### Level 10
 
-* Emergency rooms see fewer violent cases
+You unlock:
 
-* Night-shift workers feel _safer_
+Colt Peacemaker revolver = damage 1.5 Int
 
-Online forums coin names.\
-Law enforcement denies patterns.
+Lever action rifle = damage 2x Int
 
-### Government Response
+.357 ammunition
 
-Minimal.\
-Local task forces.\
-Behavioral profilers fail.
+#### Level 20
 
-> **Key Turning Point (End of Arc I):**\
-> A disappearance involving **someone officially untouchable**\
-> – judge, union boss, cartel intermediary, or donor-backed figure.
+You unlock:
 
-The case is quietly buried.
+M1911 pistol = Damage 2z Int
 
-But **he notices it was buried**.
+.45 ACP ammunition
 
-That’s when the target list changes.
+Magazines
 
-***
+M1903 Springfield rifle = Damage 3x Int
 
-# ARC II — **THE SHADOW YOU CAN’T ARREST**
+.30 caliber ammunition
 
-_Targeting Institutional Corruption_
+Stripper clips
 
-### Scope
+Fragmentation granade = Damage 1-5x Int depending on distance from explosion up to 3 meters
 
-* City → State → Federal
+#### Level 30
 
-* Still invisible, but no longer ignorable
+Elemental ammunition, mana cost twice that of regular ammo.
 
-### Targets Shift
+#### Level 40
 
-Not criminals. **Systems.**
-
-* Officials protecting traffickers
-
-* Police leadership falsifying evidence
-
-* Prosecutors burying cases
-
-* Inspectors taking bribes
-
-* Corporations laundering blood money
-
-He doesn’t kill everyone.\
-He removes **key nodes**.
-
-One disappearance causes:
-
-* A case to reopen
-
-* A witness to survive
-
-* A money trail to surface
-
-### Tactics Evolve
-
-* Clones embedded in:
-
-  * Courthouses
-
-  * Police precincts
-
-  * Corporate offices
-
-* Shadow storage used for:
-
-  * Temporary detainment
-
-  * Information extraction
-
-  * Psychological pressure
-
-People return changed.\
-Some don’t return at all.
-
-### Public Escalation
-
-Now it’s visible.
-
-* Press conferences
-
-* Congressional hearings
-
-* Federal task forces
-
-* Leaks to media
-
-Someone finally says it out loud:
-
-> “This is not a serial killer.”
-
-New theories:
-
-* Domestic terrorism
-
-* Rogue AI
-
-* Foreign intelligence weapon
-
-* Black ops gone dark
-
-The word **“vigilante”** enters official language.
-
-### Government Response
-
-* Formation of inter-agency shadow task force
-
-* Emergency surveillance authorizations
-
-* Black budgets activated
-
-Still no arrests.\
-Still no evidence.
-
-> **Key Turning Point (End of Arc II):**\
-> A **high-ranking federal figure disappears**\
-> – someone whose absence disrupts national systems.
-
-Markets wobble.\
-Allies ask questions.\
-The White House is briefed.
-
-The problem is now **classified**.
-
-***
-
-# ARC III — **THE DISAPPEARANCES**
-
-_Enemy of the State → Global Phenomenon_
-
-### Scope
-
-* National → International
-
-* High-profile, undeniable
-
-### Targets
-
-* Cabinet members
-
-* Intelligence directors
-
-* Defense contractors
-
-* Lobbyists shaping policy
-
-* Heads of regulatory agencies
-
-These aren’t criminals in the street sense.\
-They’re _clean_, respected, powerful.
-
-They vanish:
-
-* Mid-flight
-
-* During live events
-
-* In secured buildings
-
-* While under protection
-
-Sometimes:
-
-* Their replacement vanishes too.
-
-### Tactical Shift
-
-He stops hiding patterns.
-
-Disappearance timing:
-
-* Just before votes
-
-* During negotiations
-
-* On the eve of scandals
-
-It’s **surgical destabilization**.
-
-### Public Reaction
-
-Panic.
-
-* Markets crash
-
-* Emergency powers declared
-
-* Curfews imposed
-
-* Internet restrictions debated
-
-People argue:
-
-* “He’s saving us.”
-
-* “He’s destroying democracy.”
-
-* “He’s not human.”
-
-Conspiracy becomes mainstream.
-
-### Government Countermeasures
-
-* Experimental lighting weapons
-
-* Shadowless safe rooms
-
-* Continuous illumination protocols
-
-* Psychological warfare attempts
-
-They all fail.
-
-Because:
-
-* Shadows exist everywhere
-
-* Even light creates contrast
-
-* And he _is_ the dark
-
-> **Climactic Moment (End of Arc III):**\
-> He allows a message to be understood—not spoken, not written.
-
-A coordinated disappearance of:
-
-* Several corrupt figures
-
-* Across multiple branches
-
-* In one night
-
-The world realizes:
-
-> This is not chaos.\
-> This is **judgment**.
-
-***
-
-## His Role by the End
-
-He is no longer a vigilante.
-
-He is:
-
-* A deterrent
-
-* A silent auditor
-
-* A consequence
-
-Power no longer protects the corrupt.\
-Visibility no longer equals safety.
-
-The question shifts from:
-
-> “Who is he?”
-
-To:
-
-> **“What happens if he decides we qualify?”**
-
-***
-
-## Optional Endgame Forks
-
-You can branch from here:
-
-1. **Cold War with the Shadow Sovereign**\
-   – governments adapt, negotiate indirectly
-
-2. **Public Revelation Without Identity**\
-   – he becomes a known force, still faceless
-
-3. **System Completion Event**\
-   – the reincarnation system tries to “finish” its job
-
-4. **Moral Fracture**\
-   – a decision that proves even gods can be wrong
-
-***
-
+FN 5.7 pistol and rifle
+magazines and ammunition

@@ -1,6 +1,6 @@
-## Prologue
+# Prologue
 
-**Year 2545 — The Ninth Ring**
+## Year 2545 — The Ninth Ring
 
 The sky was wrong.
 
