@@ -1,0 +1,53 @@
+# Plan
+
+## Cheats
+
+- level one
+  - one clone
+  - single action six shot revolver
+  - one type of ammo
+- clone
+  - one clone level 1, gain number of clones matching level total 3 clones level 2, 6 clones level 3, 10 clones level 4 ect.
+  - can use any weapon on the body at the time of release
+  - can be absorbed into the body for a 10 percent stat gain
+  - does not consume ammution
+  - on death 3 hour wait to re-spawn
+- weapons
+  - made with found/purchased materials in spirtual space
+  - ammo must be manufactured for the weapon using spiritual power
+  - ammo must be manufactured for each skill level
+  - basic ammo does physical damage equal to spirit stat + 20 percent per skill level
+- talent
+  - rapid regeneration
+    - as long as a single cell from the body exists cannot be killed
+    - will still feel the pain
+    - the larger the damage the longer the regeration takes
+  - clones cannot use talent
+- level ten
+  - learn simi auto pistol
+  - learn elemental ammo
+- level twenty
+  - learn body armor
+- level thirty
+  - higher caliber rifle
+  - granades set off by will
+- level forty
+  - key point in journy, awaken second talent
+    - all clones share damage
+    - either all clones survive or all die
+  - learn armor peircing ammo
+  - ammo types can be mixed, reduced power
+- level fifty
+  - landmines
+- level sixty
+  - tactical map
+- level 70
+  - major point awaken third talent
+    - sharpshooter, cannot miss target, once locked on bullets will alwasy find target
+  - rocket propelled granade
+- level 80
+  - true damage ammo
+- level 90
+  - soul damage ammo
+- level 100
+  - divine damage ammo
