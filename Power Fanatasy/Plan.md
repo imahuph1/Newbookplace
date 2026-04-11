@@ -25,20 +25,31 @@
   - clones cannot use talent
 - level ten
   - learn simi auto pistol
-  - learn elemental ammo
+    - 20 rounds, fast fireing, close range
+  - learn elemental ammo - wind, water, fire, poison, lightning, healing, holy.
+  - learn derranger
+    - two barrals, small hidden, close range
 - level twenty
-  - learn body armor
+  - learn armor
+    - hat, gloves, duster, vest, boots, pants
+    - blocks negative status effects
+      - Higher tier leather, can block higher tier skils
+    - reduces damage taken -- increases clone life
 - level thirty
-  - higher caliber rifle
+  - simi auto rifle
+    - 30 rounds mid range
   - granades set off by will
 - level forty
   - key point in journy, awaken second talent
     - all clones share damage
     - either all clones survive or all die
+  - sniper rifle
+    - 5 rounds, long range
   - learn armor peircing ammo
   - ammo types can be mixed, reduced power
 - level fifty
   - landmines
+  - machine gun
 - level sixty
   - tactical map
 - level 70
