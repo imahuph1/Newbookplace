@@ -205,3 +205,786 @@ Expectation.
 Today would decide everything.
 
 And he intended to make it count.
+
+The trip to the academy was as quick and painless as it always was.
+
+John stepped into the transportation circle, the engraved runes along its edge glowing faintly beneath his feet. For a brief instant, the world seemed to fold inward—light compressing, sound vanishing—
+
+Then it was over.
+
+He stepped out into the school hall, the shift so seamless it barely registered.
+
+Students were already gathering, flowing in a steady stream toward the main auditorium. Voices overlapped into a low hum—anticipation, nerves, excitement. Today wasn’t just important for him.
+
+It was important for all of them.
+
+John moved with the crowd, neither rushing nor lingering, naturally finding his place in line.
+
+Thousands of students filled the hall.
+
+And he couldn’t name one.
+
+Not really.
+
+There were faces he recognized—classmates from lectures, training partners from drills—but they were acquaintances at best. Names without weight. Interactions without meaning.
+
+He had never needed more than that.
+
+His status saw to it.
+
+Among commoners, he was distant by default. Polite, respected… but never approached as an equal. There was always a line—unspoken, but firmly in place.
+
+Among nobles, it was worse.
+
+His family was wealthy. Influential. Rising.
+
+But not established.
+
+Not yet.
+
+To the older houses, lineage mattered more than gold. Time mattered more than recent success. And his family—despite everything they had built—had neither in sufficient measure.
+
+So they watched.
+
+Measured.
+
+Judged.
+
+And John, as heir, carried that judgment with him whether he wanted to or not.
+
+He could feel it now.
+
+Subtle glances. Quiet conversations that dipped just slightly as he passed. Not open hostility—nothing so crude.
+
+Just distance.
+
+Calculated distance.
+
+He didn’t react.
+
+Didn’t slow.
+
+Didn’t acknowledge it in any visible way.
+
+He was used to it.
+
+Had been, for years.
+
+Still, a small part of him noted the irony.
+
+Among thousands of students, on the most important day of their lives—
+
+He stood alone.
+
+The flow of students funneled into the main auditorium, the low hum of conversation gradually swelling into something heavier—anticipation layered over nerves.
+
+John stepped through the wide doors and paused, just for a moment.
+
+The space was vast.
+
+Tiered seating rose in smooth arcs around a central platform, the Awakening Circle etched into the polished stone at its center. Runes lined its edges—older than the academy itself, if the stories were to be believed. Power lingered there, faint but undeniable, like the echo of something vast and distant.
+
+At the far end, faculty and officials stood in quiet clusters, their expressions composed, watchful.
+
+Evaluating.
+
+Always evaluating.
+
+John moved to his assigned section and took his seat.
+
+From here, he had a clear view of the platform.
+
+A clear view of what was coming.
+
+The first student was called.
+
+A boy—nervous, shoulders tight—made his way down to the circle. The hall quieted, conversations tapering off into silence as he stepped into position.
+
+For a brief moment, nothing happened.
+
+Then the runes flared.
+
+Light rose, soft at first, then intensifying until it wrapped around him completely.
+
+A pause.
+
+A breath.
+
+> Class: Apprentice Swordsman
+
+A ripple moved through the auditorium.
+
+Not impressive.
+
+Not weak.
+
+Acceptable.
+
+The boy exhaled in visible relief as he stepped off the platform.
+
+The next followed.
+
+And the next.
+
+> Class: Elemental Initiate — Fire Affinity
+> Class: Shield Bearer
+> Class: Wind Adept
+> Class: Arcane Scholar
+
+The rhythm established itself quickly.
+
+Call. Walk. Light. Result.
+
+Each class announced in the same measured tone, projected clearly across the hall.
+
+Some drew quiet approval.
+
+Some drew disappointment.
+
+A few—
+
+A few drew attention.
+
+A girl stepped forward, posture steady, gaze forward.
+
+The light flared brighter this time.
+
+Sharper.
+
+> Class: Stormblade
+
+This time, the reaction wasn’t subtle.
+
+Murmurs spread immediately—interest, recognition.
+
+A noble house, then. An old one.
+
+John didn’t turn to look.
+
+He didn’t need to.
+
+Time passed.
+
+Slowly.
+
+And quickly.
+
+More names.
+
+More classes.
+
+More futures decided in a single moment.
+
+John watched.
+
+Observed.
+
+Measured.
+
+Patterns emerged.
+
+Powerful classes carried weight in the air itself—denser manifestations, brighter light, longer awakenings. Weaker ones passed almost quietly, as if the world had little to say about them.
+
+He filed it away.
+
+Not emotion.
+
+Not yet.
+
+Just information.
+
+His number drew closer.
+
+He didn’t check it.
+
+Didn’t need to.
+
+He could feel it in the pacing.
+
+In the thinning rows.
+
+In the way his section shifted as names were called and seats emptied.
+
+A boy from one of the older noble houses stepped forward next.
+
+Confident.
+
+Almost relaxed.
+
+The light surged.
+
+> Class: High Flame Mage
+
+Approval.
+
+Clear this time.
+
+Faculty nodded. Nobles in the audience leaned forward slightly. That was a class with history. With recognition.
+
+With a future already outlined.
+
+John watched him step down, already surrounded—attention, expectation, opportunity.
+
+That would not be his path.
+
+Another name.
+
+Another result.
+
+Closer.
+
+His pulse remained steady.
+
+His breathing even.
+
+Years of training ensured that much.
+
+But beneath it—
+
+Something tighter had begun to form.
+
+Not fear.
+
+Not quite.
+
+Pressure.
+
+The culmination of sixteen years, narrowing into a single moment.
+
+No second attempts.
+
+No adjustments.
+
+No preparation beyond what had already been done.
+
+Just result.
+
+A pause.
+
+Longer than the others.
+
+Then—
+
+“John.”
+
+The name carried clearly across the hall.
+
+No title attached.
+
+Not here.
+
+Every sound in the auditorium seemed to fall away.
+
+John stood.
+
+Dozens of eyes shifted toward him.
+
+Some curious.
+
+Some indifferent.
+
+Some—sharp with quiet judgment.
+
+He ignored them all.
+
+Step.
+
+Step.
+
+Step.
+
+Each movement measured as he made his way down toward the platform.
+
+The Awakening Circle waited.
+
+Silent.
+
+Ancient.
+
+Unyielding.
+
+He stepped into place.
+
+For the first time since morning—
+
+He allowed himself a single thought.
+
+Let it be enough.
+
+The runes ignited.
+
+John found himself standing in a world of white.
+
+No ground.
+No sky.
+No sense of distance—only empty, endless space stretching in every direction.
+
+Then—
+
+Movement.
+
+Far ahead, something began to take shape.
+
+Shadows.
+
+Hundreds of them.
+
+Featureless, shifting forms, packed tightly together like an advancing tide. Silent, but heavy with intent. Watching. Waiting.
+
+Opposing them—
+
+A single figure.
+
+Alone.
+
+Still.
+
+For a brief moment, nothing happened.
+
+The two forces simply faced each other.
+
+Then the man moved.
+
+No—he split.
+
+In the span of a heartbeat, one became many.
+
+Two. Ten. Dozens.
+
+Hundreds.
+
+An entire line of identical figures now stood where one had been, each perfectly still, perfectly aligned.
+
+Each one raised an arm.
+
+In their hands—
+
+Weapons.
+
+Not swords. Not staves. Not anything John had ever been taught to recognize.
+
+Compact. Precise.
+
+But unmistakably—
+
+Dangerous.
+
+There was no chant.
+
+No flare of magic.
+
+No warning.
+
+Just a single, unified motion.
+
+The weapons spoke.
+
+Thunder cracked across the empty white.
+
+Not once—
+
+But hundreds of times at once.
+
+A storm of small, impossibly fast projectiles tore across the distance.
+
+The shadows didn’t advance.
+
+Didn’t react.
+
+They simply collapsed.
+
+One after another, the mass of darkness broke apart, falling, dissolving, erased under relentless, overwhelming force.
+
+Silence returned just as quickly as it had been shattered.
+
+The army of shadows was gone.
+
+Only the figures remained.
+
+Still.
+
+Waiting.
+
+Watching.
+
+And for a brief, impossible moment—
+
+John had the distinct feeling…
+
+They were looking at him.
+
+The white began to fade.
+
+Sound returned first.
+
+A distant murmur.
+
+Then light—
+
+Real light—
+
+The auditorium snapped back into place around him.
+
+The Awakening Circle beneath his feet still glowed faintly, its power settling.
+
+For a fraction of a second, no one spoke.
+
+Then—
+
+> Class Awakened: Gunslinger
+
+Silence.
+
+Not the quiet murmur that followed an average result.
+
+Not the restrained approval of a strong one.
+
+This was different.
+
+Confusion rippled outward almost immediately.
+
+Whispers, sharper this time.
+
+Uncertain.
+
+“Gunslinger?”
+“What is that?”
+“Is that even a combat class?”
+
+Among the faculty, expressions shifted.
+
+Not impressed.
+
+Not disappointed.
+
+Concerned.
+
+Evaluating something they did not understand.
+
+John stood still in the circle.
+
+Outwardly calm.
+
+Controlled.
+
+But internally—
+
+One thought cut cleanly through everything else.
+
+I’ve never heard of it either.
+
+The system lingered in his vision, faint but undeniable.
+
+Unfamiliar.
+
+Uncategorized.
+
+And completely his.
+
+Now that he has awakened he has access to the system.  This will tell him his attributes, and skills,
+> Name: John Smith  
+> Age: 16  
+> Class: Gunslinger *Note can only equip class specific items*  
+> Talent: Rapid Regeneration  
+> Attributes:  
+> STR 8  
+> CON 8  
+> DEX 12  
+> INT 10  
+> SPR 12  
+> Skills:  
+> Armory Manufacture Level 1  
+> Heads Up Display Level 1  
+> Clone Level 1  
+> Inventory:  
+> Blueprint Single Action Revolver  
+> Blueprint Holster  
+> Blueprint Basic Ammunition  
+
+While John was pondering over his status screen and inventory the world was reacting to his awakening.  Scholars and ancient ancestors are pouring over old tombs looking for anything that can point them to what this class is and how strong or weak it may be.
+The main question on their minds is will the Smith family become a threat or will it be able to be controlled.
+
+When the final name was called and the last glow of the Awakening Circle faded, the hall slowly shifted from ceremony to movement.
+
+Students stood.
+
+Voices rose.
+
+Clusters formed almost immediately—celebration, disappointment, comparison.
+
+John didn’t linger.
+
+He made his way out with the same measured pace he had entered, slipping through the crowd without drawing attention beyond what was already there.
+
+Still—
+
+He could feel it.
+
+Eyes following.
+
+Questions forming.
+
+He stepped into the transportation circle without hesitation.
+
+Light folded.
+
+The world shifted.
+
+And then—
+
+Home.
+
+The manor was quiet.
+
+Not empty—never empty—but waiting.
+
+He didn’t have to ask where they were.
+
+The study.
+
+He moved through the halls with steady steps, each one echoing faintly against polished stone. Servants stepped aside as he passed, subtle but immediate.
+
+They already knew.
+
+Rumors and gossip spread fast among the nobles.
+
+The doors to the study were closed.
+
+He knocked once.
+
+“Enter.”
+
+John stepped inside.
+
+His father stood near the window, hands clasped behind his back, gaze directed outward but not focused on the view.
+
+Waiting.
+
+His mother sat at the table, posture composed, though her attention shifted fully to him the moment he entered.
+
+The door closed behind him with a soft click.
+
+For a moment, no one spoke.
+
+Then—
+
+“What did you receive?”
+
+Direct.
+
+As expected.
+
+“Gunslinger,” John said.
+
+A pause.
+
+Not confusion alone.
+
+Recognition of the problem.
+
+His father turned slightly, enough to look at him fully now.
+
+“Explain.”
+
+“Unknown classification,” John continued. “Exclusive compatibility. I can only equip class-specific items. External equipment is unusable.”
+
+That landed.
+
+His mother’s expression tightened, just slightly.
+
+“And the class provides those items?”
+
+“Blueprints,” John said. “I have to manufacture them myself.”
+
+Another pause.
+
+His father’s gaze sharpened.
+
+“Skills?”
+
+“Armory Manufacture. Heads Up Display. Clone.”
+
+That one lingered.
+
+“Clone?” his mother repeated.
+
+John nodded once.
+
+“I haven’t tested it yet.”
+
+Silence settled again, heavier this time—but not unstable.
+
+Thinking silence.
+
+His father moved from the window, slow, deliberate.
+
+“Your attributes?”
+
+John recited them cleanly.
+
+No embellishment.
+
+No interpretation.
+
+When he finished, his father gave a small nod.
+
+“Solid foundation,” he said. “Dexterity and Spirit aligned with your class, from what we can infer.”
+
+Not praise.
+
+Assessment.
+
+His mother leaned forward slightly.
+
+“And your talent?”
+
+“Rapid Regeneration.”
+
+That broke the rhythm.
+
+Her expression shifted—concern, immediate and unmistakable.
+
+“To what extent?”
+
+“As long as a single cell remains, I cannot die,” John said.
+
+Silence.
+
+This time, it held.
+
+His father studied him more closely now.
+
+“Cost?”
+
+“I feel everything,” John replied. “And larger damage takes longer to recover.”
+
+A slow exhalation from his mother.
+
+Not relief.
+
+But understanding.
+
+“Then you are difficult to kill,” his father said.
+
+John didn’t answer immediately.
+
+“Not impossible,” he said instead.
+
+A faint flicker of approval crossed his father’s expression.
+
+“Good,” he said.
+
+The conversation shifted.
+
+“Your class is unknown,” his father continued. “That creates risk.”
+
+“And opportunity,” John added.
+
+A brief pause.
+
+Then—
+
+His father nodded.
+
+“Yes.”
+
+His mother’s gaze remained steady on him.
+
+“Can you use it effectively?”
+
+John didn’t hesitate.
+
+“I can learn.”
+
+Not confidence.
+
+Not arrogance.
+
+Capability.
+
+That seemed to satisfy her more than any claim of strength would have.
+
+His father turned slightly, already moving into planning.
+
+“You will need materials,” he said. “If your weapons must be manufactured, then supply becomes your foundation.”
+
+John inclined his head.
+
+“Yes.”
+
+“We’ll provide what you need,” his mother added. “Within reason.”
+
+There it was.
+
+Support.
+
+Measured.
+
+Intentional.
+
+His father continued:
+
+“You have one week before the trial dungeon.”
+
+John already knew.
+
+“You will determine your limits before then,” his father said. “Not during.”
+
+A statement.
+
+Not a suggestion.
+
+John nodded.
+
+“Good,” his father said. “Then begin immediately.”
+
+A pause.
+
+Then, quieter—
+
+“Unknown paths are not inherently weak.”
+
+John met his gaze.
+
+“They are simply unproven.”
+
+For the first time since the ceremony—
+
+Something settled.
+
+Not relief.
+
+Not certainty.
+
+But direction.
+
+His mother stood, crossing the room to him.
+
+She adjusted his collar slightly—a small, familiar gesture.
+
+Grounding.
+
+“Be careful,” she said softly.
+
+John gave a single nod.
+
+Then he turned and left the study.
+
+This time, his steps were not just measured.
+
+They were purposeful.
+
+He had a system.
+
+He had a path.
+
+Next he had to make a list of what he is going to need to make his weapons, and then learn how to use them.  He is going to need steel, several pounds of it, brass, lead, and leather.
+
+He intuitively knows that in the armory tools will not be needed just the raw materials.
+
+His father simply glanced at the list and passed it to the steward to ensure that the materials and quantities would be here by the next afternoon.  He knows that the shopping will be known by the other noble families before the materials arrive.  He is not sure what they will think of it, he is not even sure what to think of it.
+
+Dinner that night was quiet.  John and his parents had much on their minds.  Too much is not known what kind of damage is the material going to make, what kind of damage is the new weapon going to do.
+
+Is this class going to throw off the balance of the noble houses in the capital.  There is too much unknown and there is nothing to do but wait. They all know that the other houses are going to be watching John.
+

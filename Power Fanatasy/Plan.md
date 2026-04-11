@@ -8,12 +8,12 @@
   - one type of ammo
 - clone
   - one clone level 1, gain number of clones matching level total 3 clones level 2, 6 clones level 3, 10 clones level 4 ect.
-  - can use any weapon on the body at the time of release
+  - can use one known weapon at the time of release
   - can be absorbed into the body for a 10 percent stat gain
-  - does not consume ammution
+  - does not consume ammunition
   - on death 3 hour wait to re-spawn
 - weapons
-  - made with found/purchased materials in spirtual space
+  - made with found/purchased materials in spiritual space
   - ammo must be manufactured for the weapon using spiritual power
   - ammo must be manufactured for each skill level
   - basic ammo does physical damage equal to spirit stat + 20 percent per skill level
@@ -21,7 +21,7 @@
   - rapid regeneration
     - as long as a single cell from the body exists cannot be killed
     - will still feel the pain
-    - the larger the damage the longer the regeration takes
+    - the larger the damage the longer the regeneration takes
   - clones cannot use talent
 - level ten
   - learn simi auto pistol
