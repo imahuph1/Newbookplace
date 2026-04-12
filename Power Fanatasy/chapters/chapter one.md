@@ -1012,3 +1012,15 @@ Ten hours later, two hundred rounds of ammunition, a revolver, and a holster had
 
 His wristband began to chime and vibrate.  He began to shake and smack the alarm, he was not ready to wake up yet, he is still tired from all the exertion yesterday.  When he noticed that he was in his bed he wondered how he got here.  Mother nature began her morning call and with a sigh he got up and began his morning routine.  There is no going back to sleep now.
 
+Breakfast was a quiet affair, his parents where kind enough to allow him to clear the fog of sleep before bombarding him with questions.
+
+"Did you succeed in creating your class weapon?" his father asked.
+
+"I did, and created several charges for it, each use requires a charge, and I can hold six charges in the weapon.  It seems that the weapon can be re-charged quickly and there is no need to completely use all the charges prior to recharging, you can simply replace the used charges."
+
+"You pushed yourself too much yesterday, you must balance rest and work." his mother said with a worried look in her eyes.
+
+"I did not realize how much creating the weapon and charges took out of me.  They are quite draining to make, but it seems like they are not very strong.  To gain levels I am sure that I am going to need lots of them.  The good thing is that now that they are created I will not be draining spirit in battle."
+
+"Not very strong huh, I think that once we are done here with breakfast we are going to have to see how these charges perform on a practice target." Straight to the point as his father usually is, killing the conversation and pushing to finish breakfast to see and do rather than talk.
+
