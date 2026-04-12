@@ -990,4 +990,9 @@ Is this class going to throw off the balance of the noble houses in the capital.
 
 John could not sit still following breakfast the next day waiting on the materials to arrive.  While waiting, he brought his clone out and inspected it.  He did not see how it was going to be useful.  It was an exact copy of him, it took a good amount of mental strength to keep it active, it has limited intelligence, it can walk, talk when directly controlled, follow simple instructions.  But over all it did not seem to overly useful.  The fact that it cannot truly die and can be directly controlled, good for certain situations but day to day use not so much.
 
-When the steward alerted that the materials had arrived and where waiting in the basement training room John nearly jumped out of his clothes and headed directly there. Time to test his skills and see what this Single action revolver, holster and ammunition is.
+When the steward alerted that the materials had arrived and where waiting in the basement training room John nearly jumped out of his clothes and headed directly there. Time to test his skills and see what this Single action revolver, holster, and ammunition is.
+
+He moved quickly but did not run.  When he arrived in the training room the materials where there exactly as he ordered them 2 kilograms of steel, enough for 4 revolvers, 100 kilograms of lead, and 50 kilograms of brass enough for around 6000 pieces of ammunition.
+
+With the materials on hand John took them into his personal inventory space, sat down on the ground in a meditation pose, and activated his armory manufacturing skill for the first time.  
+
