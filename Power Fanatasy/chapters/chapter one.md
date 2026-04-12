@@ -996,3 +996,8 @@ He moved quickly but did not run.  When he arrived in the training room the mate
 
 With the materials on hand John took them into his personal inventory space, sat down on the ground in a meditation pose, and activated his armory manufacturing skill for the first time.  
 
+Upon the activation of the skill John found himself standing in front of a workbench.  The workbench was in the center of a large warehouse.  John looked around, the warehouse was empty two shelves stood across from the workbench the rest of the warehouse was empty.  
+
+John found that in this space he could open his inventory, he brought the blueprints and materials into the warehouse, sat the metals and leather next to the workbench and the blueprints on the workbench.  As soon as the blueprints touched the workbench they were absorbed, John found them in his mind, when he thought of them he knew the inn's and out's of each part, each assembly, how to properly shape them, how they interact with each other.  
+
+If he had designed the revolver himself he would not have better understanding of it.  He then brought the steel and a small piece of brass over to the workbench.  Thinking of the revolver he could feel a drain on his spirit the metals began to liquify separate off, and began to form the smaller, then the larger parts of the revolver, from the frame, to the cylinder, to the springs, and barrel. The parts then began to fit each to their proper place.  John did not know how long had passed before the construction was complete, but he felt drained, as if nearly all of his spiritual energy had been consumed. 
