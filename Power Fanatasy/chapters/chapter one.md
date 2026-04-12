@@ -988,3 +988,6 @@ Dinner that night was quiet.  John and his parents had much on their minds.  Too
 
 Is this class going to throw off the balance of the noble houses in the capital.  There is too much unknown and there is nothing to do but wait. They all know that the other houses are going to be watching John.
 
+John could not sit still following breakfast the next day waiting on the materials to arrive.  While waiting, he brought his clone out and inspected it.  He did not see how it was going to be useful.  It was an exact copy of him, it took a good amount of mental strength to keep it active, it has limited intelligence, it can walk, talk when directly controlled, follow simple instructions.  But over all it did not seem to overly useful.  The fact that it cannot truly die and can be directly controlled, good for certain situations but day to day use not so much.
+
+When the steward alerted that the materials had arrived and where waiting in the basement training room John nearly jumped out of his clothes and headed directly there. Time to test his skills and see what this Single action revolver, holster and ammunition is.
