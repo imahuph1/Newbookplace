@@ -1024,3 +1024,27 @@ Breakfast was a quiet affair, his parents where kind enough to allow him to clea
 
 "Not very strong huh, I think that once we are done here with breakfast we are going to have to see how these charges perform on a practice target." Straight to the point as his father usually is, killing the conversation and pushing to finish breakfast to see and do rather than talk.
 
+Once everyone was down in the training room with the target set up John opened his inventory but could not find the pistol.  He then opened the warehouse there he found the pistol, holster, and ammo.  After buckling on the holster he pulled out some ammo put it into his shirt pocket then pulled out the pistol.  His parents looked at the holster ammo and pistol with a sense of curiosity but said nothing.
+
+John looked at the pistol and thought equip, as soon as it was equipped his vision changed.  Looking at his mom and dad he could see a skull above their heads.  Looking at the target he could see basic information of the target.
+> Practice Target level 10
+> HP 1,000,000 of 1,000,000
+
+" Oh that's nice" John exclaimed
+
+"What happened?" His mother asked
+
+John went on to explain the basic HUD that he had, how he can see the hp level and name of the target, and how he can see skulls above their heads.
+
+"Interesting," his father said, "an active scan skill, good to have, you should not attack anything you don't have basic information on."
+
+John opened the loading gate and half cocked the pistol, loaded in six rounds.  When he pointed the gun at the target a small x appeared in his vision as he moved the pistol around the x moved.  Taking careful aim he kept the X over the center of the target, when he pulled the trigger though the x moved to the right, the harder he pulled, the more the x seemed to move.
+The hammer fell, the gun jerked in his hand he almost dropped it, the bullet flew off missing the target entirely.  
+
+"Hmm, good speed for a level one projectile, much faster than an arrow, accuracy could use some work though.  Not much damage, around 14 looks like a mix of magical and physical damage, no elemental influence in it just raw spirit.  Good for low level beasts, should take about 2 charges to kill a level one beast in the starter dungeon.  You are going to need to make many, many charges if you wish to reach level 5 in the starter dungeon.  Working on your accuracy along the way."  His father quickly analyzed the weapon.
+
+His mother smiled "Most ranged professionals have difficulty hitting the target when first testing their skills, yours being a wholly unique weapon there is no one we can hire to teach you.  Practice I am sure you can figure it out."
+
+With those words his parents left him to his own devices, less than 5 days left to figure out how to hit the target and make enough ammo.  Too much to do and too little time to get it all done in, if only he could clone himself.
+
+Thinking about his clone, John sat down and entered the armory.  There was his clone dutifully making ammunition, a steady 14 rounds per hour at the rate the clone is working he should have around 2000 rounds ready for the beginner dungeon.  He hoped it would be enough, and that he does not burn through too much practicing.

@@ -15,8 +15,8 @@
 - weapons
   - made with found/purchased materials in spiritual space
   - ammo must be manufactured for the weapon using spiritual power
-  - ammo must be manufactured for each skill level
-  - basic ammo does physical damage equal to spirit stat + 20 percent per skill level
+  - ammo auto levels up with skill level, can be shot at lower skill levels.
+  - basic ammo does 50% physical 50% magical damage equal to spirit stat + 20 percent per skill level
 - talent
   - rapid regeneration
     - as long as a single cell from the body exists cannot be killed
@@ -26,9 +26,11 @@
 - level ten
   - learn simi auto pistol
     - 20 rounds, fast fireing, close range
+    - requires 5.7 x 28 ammo
   - learn elemental ammo - wind, water, fire, poison, lightning, healing, holy.
   - learn derranger
     - two barrals, small hidden, close range
+    - uses 45 LC ammo
 - level twenty
   - learn armor
     - hat, gloves, duster, vest, boots, pants
@@ -38,24 +40,32 @@
 - level thirty
   - simi auto rifle
     - 30 rounds mid range
+    - requires 5.56 x 45 ammo
   - granades set off by will
+  - requires clay and elemental matirials
 - level forty
   - key point in journy, awaken second talent
     - all clones share damage
     - either all clones survive or all die
   - sniper rifle
     - 5 rounds, long range
+    - requires 50 BMG ammo
   - learn armor peircing ammo
+    - second tier mats
   - ammo types can be mixed, reduced power
 - level fifty
   - landmines
+    - requires 2nd tier steel, elemental matirials
   - machine gun
+    - requires 14.5x114 ammo
 - level sixty
   - tactical map
+  - clone swap
 - level 70
   - major point awaken third talent
     - sharpshooter, cannot miss target, once locked on bullets will alwasy find target
   - rocket propelled granade
+    requires 3rd tier steel, brass, and elemental law crystals
 - level 80
   - true damage ammo
 - level 90
