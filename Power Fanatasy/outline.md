@@ -21,7 +21,7 @@ second transition Echo Legionnaire
 - initial stats are good 12 DEX and spirit, 10 INT and STR, CON is 8
 - can make 200 rounds of ammo per day
 - makes second pistol
-- prep for starter dungeon 1000 rounds of level one ammo, 2 single action revolvers + holsters
+- prep for starter dungeon 1000 rounds of level one ammo, 1 single action revolver + holster
 
 ## second chapter
 
@@ -48,7 +48,10 @@ second transition Echo Legionnaire
 - reach level 3 much more rapidly than 2
 - moving into level 3 zone, now with six clones guarding him
 - eight hours pass, two hours remaining, John has reached level 7
-- John pulls back the clones, stays in the level 7 zone, no need to push farther, stay busy, stay safe, don't be to outstanding
+- John pulls back the clones, stays in the level 7 zone, no need to push farther, stay busy, stay safe, don't be too outstanding
 - at level 7 basic attacks now do 58 damage, pretty good but not spectacular for a single attack, the power comes from having 23 clones each doing that amount of damage no serious drain, he tried to bring out the 24th but could not, amount of clones active seams to be limited by intelligence
 - change clothes, prep for dungeon exit
 - surprise from observers that he is level 7, several of the other nobles are level 6, most common classes level 4
+
+### first antagonist
+
