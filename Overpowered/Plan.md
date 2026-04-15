@@ -1,0 +1,41 @@
+# Shadow God
+
+## working title I Accidentally Awakened as a God and Still Failed Group Projects
+
+- Name Nemo Nikt - deliberate joke Nobody Nobody
+- world name Umbraeon
+- Training ground for new replacement gods, nobody knows it, but new gods are born here.
+- Nemo awaken normally, his choices after the awakening confuse observers, why not embrace power, level up to one hundred like you are supposed to do and move on, why choose to be mediocre.
+- Bottom rung family
+- Bottom rung school
+- Capital city
+- Average student
+- Awaken as the god of shadows, secrets, assassination.
+- Anti-social, introverted, socially awkward.
+- Stats show D-10 others see it as 10
+- He holds back to be average does not want attention, it leads to high expectations, which leads to more work.
+- Others see his class as assassin.
+- Can use any skill.
+- When he concentrates can see anyone's secrets, can see their family secrets.
+- Can curse a bloodline.
+- Gains exp and levels up at the same rate as a normal class.
+- Divine stats are many times stronger than human stats, at level one can kill the strongest individual on the planet, in the best possible gear.
+- Hears the prayers to the god of shadows, the god of secrets, and the god of assassination at the many shrines around the world, chooses to ignore them the vast majority of the time, like most gods do.
+- Can project his will and speak through the various shrines should he wish.
+- Knows all of this power would make most people happy, to him, it requires too much work.
+- Chooses to attempt to live a normal life, go to collage, take care of his parents.
+- Does moderately well on collage entrance exam, gets a scholarship to a decent university Aurelis Arcane University.
+- The recruiter sees something in him, he did not struggle enough or exhaust himself at any stage.  Seemed to hold himself back from competing too well.
+- Goes to classes, always perfectly at the fifty percent mark in class never higher or lower, completes minimum required dungeons, tends to utilize pick up teams, does the bare minimum, no one invites him back, although he did his job.
+- Something about him seems to put people off, and his lack of conversation, one word answers and strange looks.
+- Gets partnered with school belle in alchemy class as a lab partner.
+- Her self-proclaimed boyfriend threatens him.
+- He releases his family secrets to reporters and people in power, he is no longer an annoyance, the family, including him are on the run.
+- Sends his profits home every month, family moves into a much better apartment, no longer have to work.
+- Assassins come after his lab partner, not bothered by it till they attempt during class time
+- They each have problems as they attempt to get to the classroom, various accidents.
+- They retreat before they become too noticed.
+- During a prayer following the failed attempt are told not to bother the school, find a different place.
+- Confused they listen.
+- Begins to become friends with is roommate threatened, beaten, nearly killed by noble family over trivial incident
+- Actually becomes moderately angry, curses bloodline to have "interesting lives," most won't survive the week.
