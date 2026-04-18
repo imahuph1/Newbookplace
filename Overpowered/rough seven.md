@@ -465,7 +465,7 @@ Was new.
 
 Nemo exhaled slowly.
 
-*This is inefficient,* he thought.
+_This is inefficient,_ he thought.
 
 “Regroup,” Seraphine said.
 
