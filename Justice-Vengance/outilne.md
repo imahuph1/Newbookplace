@@ -35,8 +35,9 @@
   - closer to the world flow, no longer need to speak or draw runes
 - meeting first noble advocate/sponsor
   - going to small village, set up small healer shop, now age 8
-  - during festival meet local baron, he is interested in you
+  - during festival meet local baron, he is interested in you having a strong mage on his side is good for a low level noble
   - sponsors you to academy
+  - you decide to go to learn modern magic, the spells you use are hundreds of years old.  you want to see what progress has been made
 
 ### academy arc
 
