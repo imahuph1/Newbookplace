@@ -8,3 +8,10 @@ There is a smaller percentage of the population that can awaken and truly utiliz
 Among the awakened there are a few who merge with mana, become effectively immortal, matter and energy have become one.
 
 ### Basic Magic/Chore Magic
+
+light magic-basic healing, minor cuts, water purification
+dark magic-basic cleaning, destroy small selected impurities
+water magic-summon small amounts of water, cool a small area
+fire magic-create a small fire, heat an small area
+wind magic-create a small local breeze
+earth magic-move small amounts of earth
