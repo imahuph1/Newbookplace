@@ -12,7 +12,9 @@
 
 - Reborn on Domhan
 - A system RPG world
-- Has a character trainer (Can change stats, skill points, skill levels)
+- Has a character trainer (Can change stats, skill levels, skill points)
+- skills learned in two ways, bought with skill points earned at level ups, and by practicing skill.  skill levels earned by practicing skill.
+- skill points, one earned each odd level.
 - System limited one change per level. does stack can hold multiple changes.
 - each change can affect one line of the status sheet
 - ie can change vitality from 8 to 1500 or skill points from 1 to 999 or change a skill level from 1 to 20
@@ -44,3 +46,13 @@
 
 ## Small Village
 
+- small population around one hundred people
+- kind enough to put him up, feed him
+- he helps out as a handy man around the town, helps in the hunts for food
+- finds coffee plant, begins a new plan, one plant produces on average one pound of beans per year
+- hunting raises him to level 9
+at level 9 has 1500 vitality, endurance, strength, dexterity, intelligence, wisdom, 20 botany, 20 farming, 20 obfuscation - people cannot inspect his level, class, name, or stats.
+- level 10 gains mythical farming class Tailtiu and a soul bound all purpose farming tool
+- new class and tool helps plants grow faster
+- uses new levels to develop new skills that help him build tools to process, and brew coffee
+- once a month goes to trading village with is ware, sets up coffee shop.
