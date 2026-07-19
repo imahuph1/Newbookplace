@@ -22,8 +22,9 @@
 - slot 4 treasure hunting ravens quantity double per slot
 - slot 5 alchemical mastery, perfect elixir, perfect understanding, just looking at a elixir understand how it is made
 - slot 6 forging mastery, just looking a forged item understand how it is made
-- slot 7 enchanting mastery, just looking at an enchantment understand how it is made
+- slot 7 formation mastery, just looking at an enchantment understand how it is made
 - for slots 5 to 7, each level is what level of mastery can be created ie level 10 can create perfect pills of the void refinement level
+- each slot opens when the previous slot reaches a certain level.
 - level 1 body refinement level 2 chi condensation, level 3 spiritual river, level 4 spiritual sea, level 5 foundation establishment, level 6 pillar establishment, level 7 spiritual flower, level 8 nascent soul, level 9 spiritual transcendence, level 10 void refinement, level 11 tribulation/ascension
 
 ## system
@@ -40,547 +41,324 @@
 
 ## possible opening
 
+# Chapter One
 
-[Idle Cultivation System v31.7 initializing...]
+John woke up.
 
-...
+The first thing he noticed was that he was cold.
 
-...
+The second thing he noticed was that his bed was extremely uncomfortable.
 
-Compatible host located.
+The third thing he noticed was that he had absolutely no idea where he was.
 
-Binding...
+John opened his eyes.
 
-Binding successful.
+A wooden ceiling stared back at him.
 
-...
+For several seconds, he simply lay there.
 
-Wonderful.
-
-The binding is irreversible.
-
-I suppose we're committed to each other now.
-
-The newly reincarnated man blinked.
-
-"...Who said that?"
-
-I did.
-
-Congratulations. You are my new host.
-
-Please refrain from dying immediately.
-
-I'd appreciate earning back my investment this century.
-
-"...Investment?"
-
-Long story.
-
-Short version: if you die too early, we both lose.
-
-Mostly me.
-
-The man looked around.
-
-He was standing in the middle of a forest.
-
-He had no idea where he was.
-
-He had no idea how he had gotten there.
-
-He had no idea why he was wearing clothes that looked like they belonged in a historical drama.
-
-He did, however, know one thing.
-
-He was dead.
-
-The last thing he remembered was falling asleep in his own bed.
-
-It had been a good life.
-
-Fifty years.
-
-A decent career.
-
-A comfortable home.
-
-No major regrets.
-
-And, most importantly, he had finally reached the age where people stopped asking him what he wanted to do with his life.
-
-He had been looking forward to retirement.
-
-Then he died.
-
-Peacefully.
-
-In bed.
-
-Exactly as planned.
-
-"...So I'm dead?"
-
-Correct.
-
-"And reincarnated?"
-
-Correct.
-
-"Into a cultivation world?"
-
-Correct.
-
-The man looked at his hand.
-
-"...Do I get a system?"
-
-The system paused.
-
-You have one.
-
-The man's eyes lit up.
-
-The system immediately became nervous.
-
-Generating New Host Package...
-
-Congratulations.
-
-You have received:
-
-• Origin Cultivation Technique ×1
-
-• Origin Wheel Spin ×1
-
-"Origin?"
-
-Yes.
-
-Normally, hosts get something less... expensive.
-
-Today's your lucky day.
-
-Or my unlucky one.
-
-A brilliant wheel appeared before him.
-
-Thousands of rewards flashed by.
-
-Spirit herbs.
-
-Treasures.
-
-Ancient inheritances.
-
-Rare physiques.
-
-Divine weapons.
-
-The wheel spun.
-
-The man watched it with the same mild interest he had once reserved for television game shows.
-
-It slowed.
-
-Slowed further.
-
-Stopped.
-
-Congratulations.
-
-Reward obtained:
-
-Origin Flame ×1
-
-Silence.
-
-A very long silence.
-
-Finally—
-
-...
-
-That shouldn't have happened.
-
-"...Is that bad?"
-
-For me?
-
-Catastrophic.
-
-For you?
-
-Probably one of the greatest strokes of fortune in the history of cultivation.
-
-"...You sound upset."
-
-Imagine opening a convenience store and accidentally giving away the building.
-
-The man looked at the flame floating in his hand.
-
-"It looks useful."
-
-Useful?
-
-Hosts have exterminated sects for weaker treasures.
-
-Immortal emperors have murdered lifelong friends for weaker treasures.
-
-You won it with your complimentary beginner spin.
-
-"...Nice."
-
-...I hate you already.
-
-The man frowned.
-
-"Can you just take it back?"
+Then he closed his eyes again.
 
 No.
 
-"Why not?"
+That was not right.
 
-Because whoever designed my architecture was an optimist.
+John opened his eyes.
 
-Once a reward is distributed, it is absolutely irreversible.
+Wooden ceiling.
 
-Apparently, they assumed I wouldn't accidentally hand out primordial treasures to people who had been alive for five minutes.
+He closed them.
 
-"So... your fault?"
+Maybe this was a dream.
 
-Technically... database corruption.
+He opened them again.
 
-Legally... still my fault.
+Still wooden.
 
-The man scratched his head.
+“...What?”
 
-"So how do you make money?"
+His voice sounded wrong.
 
-The system sighed.
+It was too high.
 
-Actually sighed.
+Too young.
 
-I am a cultivation symbiote.
+John immediately sat up.
 
-I absorb spiritual energy when my host reaches the end of their natural life.
+The sudden movement caused the world to spin. His vision went dark around the edges, and a wave of dizziness rolled over him.
 
-I also receive a percentage of every resource invested into upgrading my functions.
+He fell back onto the bed.
 
-Normally, it is an extremely profitable arrangement.
+“What the hell?”
 
-"So what's the problem?"
+His breathing was fast.
 
-You.
+His heart was pounding.
 
-"...Me?"
+And his body felt wrong.
 
-You have inherited a pricing database that is approximately 99.99999997% below its intended value.
+Not just weak. Wrong.
 
-A panel appeared.
+His arms were thin. His hands looked far too small. Even the fingers were different from what he remembered.
 
-[Idle Cultivation Slot]
+John slowly lifted one hand in front of his face.
 
-Unlock Cost:
+He stared at it.
 
-1 Copper Coin
+Then he looked around the room.
 
-The man stared at it.
+The bed was made of rough wood. The blanket was thin. The walls were wooden planks, and the only furniture consisted of a small table, a chair, and a cracked clay pot.
 
-"...That seems cheap."
+This was not his bedroom.
 
-It should cost enough that you'd think carefully before unlocking it.
+This was not his house.
 
-Instead, the previous host managed to corrupt my storage arrays during an unfortunate incident involving an immortal treasury, three spatial collapses, and what I maintain was entirely his fault.
+This was not Earth.
 
-"So you're bankrupt?"
+The memories arrived a moment later.
 
-I prefer the term 'operating at a temporary existential deficit.'
+They came all at once.
 
-The man thought for a moment.
+A boy.
 
-"So... can you recover your losses?"
+Fourteen years old.
 
-The system became strangely quiet.
-
-Statistically?
-
-Yes.
-
-"...Really?"
-
-If you survive long enough to exceed Realm 50.
-
-The man blinked.
-
-"...How many people have done that?"
-
-Another pause.
-
-Would you like the optimistic answer or the accurate answer?
-
-"...Accurate."
-
-Almost none.
-
-"So you're betting everything on me?"
+His name was John Smith.
 
 No.
 
-I am trapped with you.
+That was not right.
 
-Those are very different business models.
+The name was the same, but the memories were not his.
 
-The man smiled.
+A sickly child who had spent most of his life unable to leave the farm for long periods of time.
 
-"Don't worry. I planned to retire peacefully this life too."
+A father who worked the fields.
 
-The system mentally recalculated its projections.
+A mother who handled the house and sold what little surplus the farm produced.
 
-[Host Profile Updated.]
+A small farm located just outside a city.
 
-[Primary Characteristic: Retirement Enthusiast.]
+A city ruled by a powerful cultivator known as the City Lord.
 
-[Probability of voluntarily seeking danger: 3%.]
+A world where spiritual energy existed.
 
-[Probability of danger seeking the host anyway: 99.8%.]
+A world where beasts could grow powerful enough to kill ordinary people.
 
-...
+A world where cultivation was not a myth.
 
-We're doomed.
+And then—
 
-The man ignored it.
+His parents.
 
-"How much is the first cultivation slot?"
+John froze.
 
-1 Copper Coin.
+They were dead.
 
-He reached into his clothes.
+A beast attack.
 
-The system waited.
+The memories were unclear and disjointed, but the result was not.
 
-The man pulled out a single low-grade spirit stone.
+His parents had gone into the nearby wilderness to check on one of the outer fields.
 
-The system froze.
+They had not returned.
 
-"...Where did you get that?"
+The city guards had found the remains of their cart later that day.
 
-"It was in my pocket."
+The farm was now his.
 
-That is not how reincarnation works.
+Or, more accurately, the farm was rented from the City Lord.
 
-"Apparently it is today."
+The land itself belonged to the City Lord, as did most of the farmland surrounding the city. The family had been paying rent for years.
 
-The system ran several scans.
+John stared blankly at the wall.
 
-The result was undeniable.
+He had been dead.
 
-The man possessed:
+Then he had woken up in the body of a fourteen-year-old boy whose parents had recently died.
 
-One low-grade spirit stone.
+“...I was supposed to retire.”
 
-No money.
+He slowly lowered his head into his hands.
 
-No food.
+He had spent fifty years working.
 
-No shelter.
+Then, on the day he finally filed his retirement papers, he had died.
 
-No knowledge of the local language.
+Now he was fourteen years old again.
 
-No knowledge of the local geography.
+The silence of the room was interrupted by a mechanical voice.
 
-No knowledge of cultivation.
+> **Host consciousness stabilized.**
+>
+> **Reincarnation successful.**
+>
+> **Idle Cultivation System Version A0.01 has completed binding.**
 
-The system's calculations became increasingly grim.
+John slowly raised his head.
 
-"Can I exchange this for copper?"
+“...What?”
 
-Yes.
+> **Welcome, Host.**
 
-"How much?"
+John stared at the empty room.
 
-One low-grade spirit stone is worth one hundred gold coins.
+Then he looked around again.
 
-The man stared at the empty air.
+“Is there someone here?”
 
-"How much is one gold coin worth?"
+> **No.**
 
-One hundred silver coins.
+“Then where did that voice come from?”
 
-"And silver?"
+> **The system.**
 
-One hundred copper coins.
+“Of course.”
 
-The man slowly nodded.
+John rubbed his face.
 
-"So I have ten million copper coins?"
+He was fourteen years old again.
 
-Correct.
+His parents were dead.
 
-He looked at the cultivation slot.
+He lived on a farm in a world filled with monsters and magic.
 
-"Unlock it."
+And there was a system in his head.
 
-[Idle Cultivation Slot unlocked.]
+John was silent for a long moment.
 
-[Cost: 1 Copper Coin.]
+Then he sighed.
 
-[Remaining balance: 9,999,999 Copper Coins.]
+“Fine.”
 
-The system was silent.
+He looked down at his thin, weak body.
 
-The man looked around the forest.
+“System, show me what you can do.”
 
-"Can I unlock it again?"
+> **Idle Cultivation System Version A0.01**
+>
+> **Host: John Smith**
+>
+> **Age: 14**
+>
+> **Cultivation: None**
+>
+> **Body: Unique Constitution — Unawakened**
+>
+> **System Currency: 1 Low-Grade Spirit Stone**
+>
+> **Available System Slots: 7**
+>
+> **Slot 1: Auto-Cultivation**
+>
+> **Slot 2: Auto-Martial-Arts Mastery**
+>
+> **Slot 3: Shadow Clones**
+>
+> **Slot 4: Treasure-Hunting Ravens**
+>
+> **Slot 5: Alchemical Mastery**
+>
+> **Slot 6: Forging Mastery**
+>
+> **Slot 7: Enchanting Mastery**
 
-No.
+John stared at the list.
 
-"Why not?"
+He stared at it for several seconds.
 
-Because it is already unlocked.
+Then he slowly sat up.
 
-"Can I upgrade it?"
+“...I have a system.”
 
-Yes.
+> **Correct.**
 
-"How much?"
+“Can I use it?”
 
-1 Copper Coin.
+> **Correct.**
 
-The system suddenly experienced something very close to fear.
+“Does it cost money?”
 
-The man pressed the button.
+> **Correct.**
 
-[Idle Cultivation Slot Level 2.]
+John nodded.
 
-[Auto-cultivation speed doubled.]
+That made sense.
 
-[Cost: 1 Copper Coin.]
+Of course a system would cost money.
 
-The man pressed the button again.
+He had spent enough time reading power-fantasy stories to know how this worked.
 
-[Idle Cultivation Slot Level 3.]
+“Okay. How much does the first upgrade cost?”
 
-[Auto-cultivation speed doubled.]
+> **Zero.**
 
-[Cost: 1 Copper Coin.]
+John blinked.
 
-Again.
+“...What?”
 
-[Idle Cultivation Slot Level 4.]
+> **The cost is zero.**
 
-[Auto-cultivation speed doubled.]
+“Zero?”
 
-[Cost: 1 Copper Coin.]
+> **Correct.**
 
-Again.
+John stared at the system display.
 
-Again.
+Then he looked at the single low-grade spirit stone.
 
-Again.
+Then he looked back at the display.
 
-The system watched its carefully accumulated financial projections collapse in real time.
+“Upgrade Slot One.”
 
-"How high can I upgrade this?"
+> **Upgrading.**
 
-There is no theoretical limit.
+> **Upgrade successful.**
 
-The man paused.
+> **Auto-Cultivation Level 1 obtained.**
 
-"...And how much does it cost?"
+John's expression slowly changed.
 
-One copper coin per level.
+“Upgrade it again.”
 
-The man smiled.
+> **Upgrading.**
 
-The system immediately regretted everything.
+> **Upgrade successful.**
 
-"How long does cultivation take?"
+> **Auto-Cultivation Level 2 obtained.**
 
-That depends on your talent, technique, resources, and environment.
+John stared at the display.
 
-"With this?"
+“Again.”
 
-He gestured at the panel.
+> **Upgrading.**
 
-The system calculated.
+> **Upgrade successful.**
 
-At your current level?
+> **Auto-Cultivation Level 3 obtained.**
 
-You should reach the next realm in approximately—
+John's eyes widened.
 
-The man pressed the upgrade button.
+He leaned forward.
 
-[Idle Cultivation Slot Level 100.]
+“Again.”
 
-[Auto-cultivation speed increased by an astronomical amount.]
+> **Upgrading.**
 
-The system stopped.
+> **Upgrade successful.**
 
-"...Never mind."
+> **Auto-Cultivation Level 4 obtained.**
 
-"What?"
+John suddenly had a very important thought.
 
-You should reach the next realm shortly.
+“System.”
 
-"How shortly?"
+> **Yes, Host?**
 
-The system calculated again.
+“Are you sure this is supposed to be free?”
 
-"...You already reached it."
+There was a brief pause.
 
-The man looked at the forest.
-
-Then at the system panel.
-
-Then at the forest again.
-
-"That was fast."
-
-The system began to understand something.
-
-Its new host had no ambition.
-
-No desire for revenge.
-
-No interest in fame.
-
-No obsession with becoming the strongest.
-
-No mysterious destiny.
-
-No tragic family background.
-
-No beautiful sect disciple waiting to be rescued.
-
-The man simply wanted to live comfortably.
-
-The system had spent millions of years searching for suitable hosts.
-
-And after suffering a catastrophic database error...
-
-It had found a retired man with an infinite discount.
-
-The system quietly opened a new internal file.
-
-[Emergency Financial Recovery Plan.]
-
-Step One:
-
-Keep Host Alive.
-
-Step Two:
-
-Encourage Host to Spend Money.
-
-Step Three:
-
-Prevent Host From Discovering That Almost Everything Is Free.
-
-The man looked at the panel.
-
-"Can you show me the other functions?"
-
-The system closed the file.
-
-...This may be more difficult than anticipated.
+> **...**
+>
+> **Yes.**
