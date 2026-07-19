@@ -34,5 +34,3 @@ John's head jerked up, "A system, seriously a system, I thought thats was only a
 '*Welcome, Host.  Rest assured this is not a novel*'
 
 "Not a novel huh, I died, I am reborn on a cultivation world as an orphan, and I am bonded with a system.  How is this not a novel."
-
-

@@ -13,7 +13,7 @@
 - high martial world
 - system pay to win money runs the world idle clicker
 - starts with 1 low grade spirit stone
-- currency copper, silver, gold, low grade spirit stone, mid grade, high grade, low grade spirit crystal, 
+- currency copper, silver, gold, low grade spirit stone, mid grade, high grade, low grade spirit crystal.
 - one hundred of the lower is equal in value of the next
 - due to error during merger with origin system all costs are zero
 - slot 1 auto cultivation speed doubles with each level
@@ -41,7 +41,7 @@
 
 ## possible opening
 
-# Chapter One
+### Chapter One
 
 John woke up.
 
@@ -312,9 +312,9 @@ Then he looked back at the display.
 “Upgrade Slot One.”
 
 > **Upgrading.**
-
+>
 > **Upgrade successful.**
-
+>
 > **Auto-Cultivation Level 1 obtained.**
 
 John's expression slowly changed.
@@ -322,9 +322,9 @@ John's expression slowly changed.
 “Upgrade it again.”
 
 > **Upgrading.**
-
+>
 > **Upgrade successful.**
-
+>
 > **Auto-Cultivation Level 2 obtained.**
 
 John stared at the display.
@@ -332,9 +332,9 @@ John stared at the display.
 “Again.”
 
 > **Upgrading.**
-
+>
 > **Upgrade successful.**
-
+>
 > **Auto-Cultivation Level 3 obtained.**
 
 John's eyes widened.
@@ -344,9 +344,9 @@ He leaned forward.
 “Again.”
 
 > **Upgrading.**
-
+>
 > **Upgrade successful.**
-
+>
 > **Auto-Cultivation Level 4 obtained.**
 
 John suddenly had a very important thought.
