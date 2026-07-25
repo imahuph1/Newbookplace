@@ -77,3 +77,12 @@ They are also worried for him, they know in the future he will be fighting dange
 ## Jim Holds Back
 
 Jim is able to hide is aura, showing only 4 rank of body refinement, performs average on written test, hits and runs at the 4 rank of body refinement.  A few collage recruiters notice something is off about him but cannot put their fingers on it.  One thing of note, even without a strong backing and money to buy various elixirs Jim is still in the top 50 of high school graduates nation wide.
+
+## secret realm reward
+
+teachers and top fifty students enter,
+max beast in realm is nacent soul
+good real world experiance for students
+evil cult break in, distract teachers
+nacent soul head cultist wants to sacrifice students to help him break through
+Jim steps up and puts a stop to it.
