@@ -1,2 +1,2 @@
-# The wrath of a quiet man
+# The Wrath of a Quiet Man
 
